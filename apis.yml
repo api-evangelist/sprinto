@@ -1,0 +1,29 @@
+aid: sprinto
+url: https://raw.githubusercontent.com/api-evangelist/sprinto/refs/heads/main/apis.yml
+name: Sprinto
+x-type: company
+description: >-
+  Sprinto is a continuous security compliance platform for cloud-first companies, covering SOC 2, ISO 27001, HIPAA, PCI DSS, GDPR, and HITRUST.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - GRC
+  - Compliance
+  - SOC 2
+  - Cloud
+  - Continuous
+created: '2026-05-08'
+modified: '2026-05-08'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://sprinto.com/
+  - type: Plans
+    url: plans/sprinto-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/sprinto-rate-limits.yml
+  - type: FinOps
+    url: finops/sprinto-finops.yml
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
