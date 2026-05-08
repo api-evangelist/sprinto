@@ -10,23 +10,23 @@ tags:
 - GRC
 - Compliance
 - SOC 2
-- Cloud
-- Continuous
+- ISO 27001
+- Security
 - Rate Limiting
 - Quotas
 - Throttling
-description: Placeholder rate-limit artifact for Sprinto. Replace with real limits once researched.
-notes: Initial scaffold — limits have not yet been reconciled.
+description: Sprinto API rate limits are not publicly documented.
+notes: Honor HTTP 429 and Retry-After when present.
 sources:
-- https://sprinto.com/
+- https://www.sprinto.com/api/
 responseCodes:
   throttled: 429
 limits:
-- name: Default
-  scope: account
-  metric: varies
-  limit: see provider documentation
-  notes: Pending reconciliation.
+- name: Default Platform API
+  scope: tenant
+  metric: requests
+  limit: not publicly documented
+  notes: Contact support for thresholds.
 policies:
 - name: Backoff Strategy
   description: Clients should implement exponential backoff with jitter and honor any Retry-After header.

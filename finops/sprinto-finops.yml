@@ -10,13 +10,13 @@ tags:
 - GRC
 - Compliance
 - SOC 2
-- Cloud
-- Continuous
+- ISO 27001
+- Security
 - FinOps
 - Cost Management
 - FOCUS
-description: FOCUS-aligned FinOps placeholder for Sprinto. Pipeline will replace with real billing details.
-notes: Initial scaffold — billing model has not yet been reconciled.
+description: FOCUS-aligned FinOps profile. Sprinto is sold as an annual subscription.
+notes: Plan includes API access.
 sources:
 - https://sprinto.com/
 - https://focus.finops.org/focus-specification/v1-3/
@@ -27,31 +27,29 @@ alignedWith:
   dataSpecVersion: '1.3'
   dataSpecUrl: https://focus.finops.org/focus-specification/v1-3/
 publisherName: Sprinto
-serviceCategory: GRC
+serviceCategory: Compliance & Governance
 billingModel:
-  pricingCategory: To Be Reconciled
-  billingFrequency: Monthly
+  pricingCategory: Subscription
+  billingFrequency: Annual
   billingCurrency: USD
   chargeCategories:
-  - Usage
   - Purchase
   - Adjustment
 focusColumns:
   ServiceName: Sprinto
-  ServiceCategory: GRC
+  ServiceCategory: Compliance & Governance
   ProviderName: Sprinto
   PublisherName: Sprinto
   InvoiceIssuerName: Sprinto
   BillingCurrency: USD
   ChargeCategory: Usage
 meters:
-- name: api_usage
-  description: Catch-all meter pending reconciliation.
-  unit: varies
+- name: subscription
+  description: Annual subscription line item.
+  unit: subscription
   aggregation: sum
   dimensions:
   - account
-  - resource
 principles:
 - name: Visibility
   description: Pull provider invoices or usage exports until a self-serve usage feed is documented.

@@ -10,32 +10,32 @@ tags:
 - GRC
 - Compliance
 - SOC 2
-- Cloud
-- Continuous
+- ISO 27001
+- Security
 - Plans
-description: Placeholder plans/pricing artifact for Sprinto. Replace with real published pricing once
-  the pipeline researches the provider's plans page.
-notes: Initial scaffold — plans/pricing have not yet been reconciled.
+description: Sprinto pricing is quote-based and not publicly posted.
+notes: Contact Sprinto sales for tiers.
 sources:
 - https://sprinto.com/
+- https://www.sprinto.com/api/
 plans:
-- id: sprinto-default
-  name: To Be Reconciled
+- id: sprinto-quote-based
+  name: Quote-Based Subscription
   type: enterprise
-  description: Initial scaffold; replace with provider plan tiers once pricing is reconciled.
+  description: Subscription scoped to frameworks, headcount, and integrations.
   entries:
-  - label: API Access
-    name: api_access
+  - label: Subscription
+    name: subscription
     type: flat
-    metric: varies
+    metric: annual subscription
     limit: -1
-    timeFrame: usage
+    timeFrame: yearly
     geo: global
     unit: 1
-    price: see https://sprinto.com/
+    price: contact sales
     userMultiplied: false
   elements:
-  - name: Pending Reconciliation
+  - name: API Access (included)
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
