@@ -41,6 +41,109 @@ common:
   url: rate-limits/sprinto-rate-limits.yml
 - type: FinOps
   url: finops/sprinto-finops.yml
+- type: Integrations
+  url: https://sprinto.com/integrations/
+integrations:
+  - name: sprinto-site-logo-white
+  - name: sprinto-site-logo-dark
+  - name: use-case-icon
+  - name: angle-left
+  - name: blub-icon
+  - name: secure-refresh-icon
+  - name: target-arrow-icon
+  - name: clip-board-icon
+  - name: The state of AI in compliance
+  - name: puzzle-icon
+  - name: plant-icon
+  - name: desktop-icon
+  - name: market-icon
+  - name: sever-icon
+  - name: building-icon
+  - name: setting-icon
+  - name: industry-icon
+  - name: cloud-icon
+  - name: BFSI-icon
+  - name: bag-plus-icon
+  - name: product-icon
+  - name: audit-icon
+  - name: Autonomous TPRM
+  - name: Unified Commitments
+  - name: AI Governance
+  - name: risk-icon
+  - name: secure-icon-check
+  - name: doc-lock-icon
+  - name: database-icon
+  - name: star-icon
+  - name: navlogobg
+  - name: trust-center-icon
+  - name: processor-icon
+  - name: star-secure-icon
+  - name: frameworks
+  - name: blog-icon
+  - name: ebook-icon
+  - name: customer-icon
+  - name: template-icon
+  - name: folder-report-icon
+  - name: tools-icon
+  - name: white-paper-icon
+  - name: video-camera-icon
+  - name: info-graphic-icon
+  - name: messenger-icon
+  - name: Encyclopedia
+  - name: scale-grc-practice
+  - name: audit-first-approach
+  - name: sprinto-icon
+  - name: lock-icon
+  - name: flag-icon
+  - name: refresh-icon
+  - name: profile-icon
+  - name: cup-icon
+  - name: bar-icon
+  - name: setting-gear-icon
+  - name: bag-icon
+  - name: phone-icon
+  - name: Partner program
+  - name: board-check-icon
+  - name: doc-icon
+  - name: integration-icon
+  - name: become-partner-card-img
+  - name: hire-partner-card-img
+  - name: whatfix-logo
+  - name: giga
+  - name: icon vector hackerrank
+  - name: wework-logo
+  - name: anaconda-logo
+  - name: icon vector coderabbit
+  - name: docsumo-logo
+  - name: polymerize-logo
+  - name: icon vector nium
+  - name: integrations-text-info-img-1
+  - name: integrations-text-info-img-2
+  - name: integrations-text-info-img-3
+  - name: package
+  - name: dropdown-angle
+  - name: grid-01
+  - name: Accelo
+  - name: adobe-logo
+  - name: adobe-sign-icon
+  - name: adyen-icon
+  - name: airtable
+  - name: alexis
+  - name: Atomicwork-logo
+  - name: avigilon-alta-icon
+  - name: Avoma
+  - name: document-search-logo
+  - name: logo Fyxer ai
+  - name: Andy-Wallace
+  - name: block-quote
+  - name: SiteRocket-Labs-logo
+  - name: David-Emerson
+  - name: SIGI Green
+  - name: Kenton-Courtois
+  - name: cell-point-digital-logo
+  - name: Frederic-Lauret
+  - name: neopharma-logo
+  - name: Gajenddra-Raj
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
