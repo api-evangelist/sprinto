@@ -47,7 +47,7 @@ common:
     url: finops/sprinto-finops.yml
   - type: Integrations
     url: https://sprinto.com/integrations/
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://docs.sprinto.com/llms.txt
 integrations:
   - name: sprinto-site-logo-white
