@@ -31,6 +31,12 @@ apis:
     - type: Documentation
       url: https://docs.sprinto.com/
 common:
+  - type: TrustCenter
+    url: security/sprinto-trust-center.yml
+  - type: DomainSecurity
+    url: security/sprinto-domain-security.yml
+  - url: https://sprinto.com/feed/
+    type: Blog
   - type: GitHubOrganization
     url: https://github.com/goSprinto
   - type: LinkedIn
