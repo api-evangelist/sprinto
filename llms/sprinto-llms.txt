@@ -1,0 +1,907 @@
+# Sprinto Docs
+
+## Sprinto Docs
+
+- [Sprinto Docs](https://docs.sprinto.com/readme.md)
+- [Why Sprinto](https://docs.sprinto.com/getting-started/quickstart.md): Sprinto enables businesses to streamline compliance operations effortlessly with automated workflows, real-time monitoring, and seamless integrations across security frameworks.
+- [Setup Guide](https://docs.sprinto.com/getting-started/setup-guide.md): A step-by-step guide to getting started with Sprinto—set up your account, configure governance, build a security programme, and manage risks for complete compliance readiness.
+- [Self‑Serve Dashboard](https://docs.sprinto.com/getting-started/self-serve-dashboard.md): Step‑by‑step, CTA‑driven guide to complete Sprinto’s SOC 2 Launchpad, generate your blueprint, and action policies, risks, and evidence.
+- [Sprinto Policies](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies.md)
+- [Acceptable Usage Policy](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/acceptable-usage-policy.md)
+- [Access Control Policy](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/access-control-policy.md)
+- [Business Continuity & Disaster Recovery Policy](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/business-continuity-and-disaster-recovery-policy.md)
+- [Code of Business Conduct Policy](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/code-of-business-conduct-policy.md)
+- [Communications & Network Security Policy](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/communications-and-network-security-policy.md)
+- [HR Security Policy](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/hr-security-policy.md)
+- [Incident Management Policy](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/incident-management-policy.md)
+- [Information Security Policy](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/information-security-policy.md)
+- [Media Disposal Policy](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/media-disposal-policy.md)
+- [Vendor Management Policy](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/vendor-management-policy.md)
+- [Asset Management Policy](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/asset-management-policy.md)
+- [Compliance Policy](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/compliance-policy.md)
+- [Operation Security Policy](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/operation-security-policy.md)
+- [Organization of Information Security Policy](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/organization-of-information-security-policy.md)
+- [Physical & Environmental Security Policy](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/physical-and-environmental-security-policy.md)
+- [System Acquisition & Development Lifecycle Policy](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/system-acquisition-and-development-lifecycle-policy.md)
+- [Access Control Procedure](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/access-control-procedure.md)
+- [Asset Management Procedure](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/asset-management-procedure.md)
+- [Business Continuity Plan](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/business-continuity-plan.md)
+- [Compliance Procedure](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/compliance-procedure.md)
+- [HR Security Procedure](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/hr-security-procedure.md)
+- [Incident Management Procedure](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/incident-management-procedure.md)
+- [Network Security Procedure](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/network-security-procedure.md)
+- [Physical & Environmental Security Procedure](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/physical-and-environmental-security-procedure.md)
+- [Software Development Lifecycle Procedure](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/software-development-lifecycle-procedure.md)
+- [Operations Security Procedure](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/operations-security-procedure.md)
+- [Vendor Management Procedure](https://docs.sprinto.com/getting-started/self-serve-dashboard/sprinto-policies/vendor-management-procedure.md)
+- [Frequently Asked Questions (FAQs)](https://docs.sprinto.com/getting-started/frequently-asked-questions-faqs.md): Frequently asked questions about getting started with Sprinto, including setup time, framework changes, staff onboarding, integrations, and policy management.
+- [May 2026](https://docs.sprinto.com/product-updates/may-2026.md): May 2026 Sprinto updates introduce AI-powered compliance workflows, DPIA management, and enhanced risk management capabilities.
+- [April 2026](https://docs.sprinto.com/product-updates/april-2026.md): April 2026 Sprinto updates introduce AI-powered integrations, vendor and policy registers, smarter monitoring workflows, and enhanced automation across compliance operations.
+- [March 2026](https://docs.sprinto.com/product-updates/march-2026.md): March 2026 Sprinto updates introduce AI-powered trust centre interactions, audit findings, bulk uploads, and enhanced risk and access review workflows.
+- [February 2026](https://docs.sprinto.com/product-updates/february-2026.md): February 2026 updates introduce enhanced automation, vendor lifecycle management, approval workflows, and usability improvements across Sprinto.
+- [January 2026](https://docs.sprinto.com/product-updates/january-2026.md): January 2026 updates introduce improved integration error handling, weighted risk scoring, automation with rule engine, control testing, and Terraform-based remediation in Sprinto.
+- [December 2025](https://docs.sprinto.com/product-updates/december-2025.md): Discover Sprinto’s December 2025 product updates featuring AI-powered automation, enhanced risk management, advanced policy approvals, and improved trust and control workflows.
+- [November 2025](https://docs.sprinto.com/product-updates/november-2025.md): Sprinto November 2025 brings AI-powered automation, real-time evidence capture, framework flexibility, and multiple integration and UX upgrades to streamline audits and compliance operations.
+- [October 2025](https://docs.sprinto.com/product-updates/october-2025.md): Discover Sprinto’s October 2025 Product Updates, featuring AI-led mapping, smarter vendor management, new device checks, and enhanced integration workflows for faster, more connected compliance.
+- [August - September 2025](https://docs.sprinto.com/product-updates/august-september-2025.md): Explore Sprinto’s August–September 2025 product updates, featuring AI automation, Microsoft Teams integration, enhanced IDP sync, bulk mapping, exception management, and smarter compliance workflows
+- [Overview](https://docs.sprinto.com/dashboard/overview.md): Get a unified, real-time view of compliance posture, pending work, and risks across Sprinto through the central dashboard and streamlined navigation.
+- [Support for Secure Controls Framework (SCF)](https://docs.sprinto.com/dashboard/overview/support-for-secure-controls-framework-scf.md)
+- [Communication of Staff Related Activities Email Template](https://docs.sprinto.com/dashboard/overview/communication-of-staff-related-activities-email-template.md)
+- [New Sprinto App Navigation UI Overview](https://docs.sprinto.com/dashboard/overview/new-sprinto-app-navigation-ui-overview.md)
+- [User Management](https://docs.sprinto.com/dashboard/user-management.md)
+- [User Management (Collaborator)](https://docs.sprinto.com/dashboard/user-management/user-management-collaborator.md): Learn how to assign, manage, and revoke collaborator access in Sprinto for seamless task delegation and compliance tracking.
+- [Check Super Admin Status (Google Workspace)](https://docs.sprinto.com/dashboard/user-management/check-super-admin-status-google-workspace.md)
+- [Control Health Dashboard](https://docs.sprinto.com/dashboard/control-health-dashboard.md): Track the overall compliance posture, monitor control readiness, and review pending work across all compliance areas from Sprinto’s main dashboard.
+- [Continuous Risk Monitoring](https://docs.sprinto.com/dashboard/continuous-risk-monitoring.md): Monitor risks in real time, assess treatment effectiveness, and identify risks requiring attention from a centralised dashboard in Sprinto.
+- [Task Dashboard](https://docs.sprinto.com/dashboard/task-dashboard.md): View, filter, and manage all pending compliance tasks across Sprinto from a single, centralised dashboard.
+- [Overview](https://docs.sprinto.com/audits/overview.md): Manage compliance, internal, and custom audits effortlessly with Sprinto’s centralised audit management platform.
+- [How it Works](https://docs.sprinto.com/audits/how-it-works.md)
+- [Dashboard Actions](https://docs.sprinto.com/audits/dashboard-actions.md)
+- [Create an Audit (Plans 1 and 2)](https://docs.sprinto.com/audits/dashboard-actions/create-an-audit-plans-1-and-2.md): Learn how to create audits in Sprinto, define audit periods, and add requirements with ease.
+- [Create an Audit (Plans 3 and 4)](https://docs.sprinto.com/audits/dashboard-actions/create-an-audit-plans-3-and-4.md): Learn how to create Partner or Custom audits in Sprinto, define audit periods, and add requirements with ease.
+- [Create a Custom Audit with A-LIGN](https://docs.sprinto.com/audits/dashboard-actions/create-a-custom-audit-with-a-lign.md): Learn how to create a custom audit with an A-LIGN engagement and automatically sync audit requirements into Sprinto.
+- [Tasks For Audits](https://docs.sprinto.com/audits/dashboard-actions/tasks-for-audits.md): Create, assign, and complete audit-related tasks in Sprinto using structured workflows for findings, controls, and audit events.
+- [Update Controls and Criteria for an Automated Audit](https://docs.sprinto.com/audits/dashboard-actions/update-controls-and-criteria-for-an-automated-audit.md): Learn how to add, remove, and manage controls and criteria within an automated audit in Sprinto.
+- [Configure Entities in Audit Evidence](https://docs.sprinto.com/audits/dashboard-actions/configure-entities-in-audit-evidence.md): Configure which staff members and risk registers are included in audit evidence to control the records displayed during evidence review.
+- [Audit Dashboard States](https://docs.sprinto.com/audits/dashboard-actions/audit-dashboard-states.md)
+- [Selecting an Audit Partner](https://docs.sprinto.com/audits/dashboard-actions/selecting-an-audit-partner.md): Find the right audit partner through Sprinto’s accredited network of auditors to match your compliance needs, frameworks, and budget.
+- [Scoring an Audit](https://docs.sprinto.com/audits/dashboard-actions/scoring-an-audit.md): Enable your auditors to assign detailed scores and change review statuses for audit requirements using custom scoring fields in Sprinto.
+- [Audit Lifecycle Reporting](https://docs.sprinto.com/audits/dashboard-actions/audit-lifecycle-reporting.md)
+- [Audits as an Independent Module](https://docs.sprinto.com/audits/dashboard-actions/audits-as-an-independent-module.md)
+- [Frequently Asked Questions](https://docs.sprinto.com/audits/frequently-asked-questions.md): Get clear answers to frequently asked questions about audit setup, management, and workflows in Sprinto.
+- [Glossary](https://docs.sprinto.com/audits/glossary.md): Explore key audit terms and definitions used in Sprinto to better understand audit workflows and compliance actions.
+- [Evidences](https://docs.sprinto.com/audits/evidences.md): Manage and centralise all your audit-ready documentation in Sprinto with metadata, version control, and seamless evidence tracking.
+- [How it Works](https://docs.sprinto.com/audits/evidences/how-it-works.md): Learn how Sprinto simplifies evidence collection, metadata management, and audit mapping with a streamlined, version-controlled workflow.
+- [Dashboard Actions](https://docs.sprinto.com/audits/evidences/dashboard-actions.md)
+- [Create Evidences](https://docs.sprinto.com/audits/evidences/dashboard-actions/create-evidences.md): Learn how to create, upload, and request audit-ready evidence in Sprinto using manual, bulk, or CSV-based workflows.
+- [Manage Evidences](https://docs.sprinto.com/audits/evidences/dashboard-actions/manage-evidences.md): Learn how to update or archive evidences in Sprinto to keep your audit documentation accurate and organised.
+- [Search Evidences](https://docs.sprinto.com/audits/evidences/dashboard-actions/search-evidences.md): Quickly find the right audit files in Sprinto using powerful search and filter options across all evidence types.
+- [Frequently Asked Questions (FAQs)](https://docs.sprinto.com/audits/evidences/frequently-asked-questions-faqs.md): Find answers to common questions about uploading, managing, and reviewing evidences in Sprinto's compliance dashboard.
+- [Glossary](https://docs.sprinto.com/audits/evidences/glossary.md): Understand key terms related to evidence management in Sprinto with this comprehensive glossary for audit and compliance workflows.
+- [Overview](https://docs.sprinto.com/policies/overview.md): Manage, approve, and track compliance policies across your organisation with Sprinto’s centralised Policies module.
+- [How it Works](https://docs.sprinto.com/policies/how-it-works.md): Learn how policies are created, approved, mapped, and maintained in Sprinto to support continuous compliance.
+- [Dashboard Actions](https://docs.sprinto.com/policies/dashboard-actions.md): Manage, review, and monitor all your policy actions in one place with Sprinto’s centralised dashboard tools.
+- [Create Policies and Documents](https://docs.sprinto.com/policies/dashboard-actions/create-policies-and-documents.md): Learn how to create and upload policies, procedures, and supporting documents in Sprinto.
+- [Manage Policies and Versions](https://docs.sprinto.com/policies/dashboard-actions/manage-policies-and-versions.md): Review, approve, edit, and track your policies and documents throughout their lifecycle.
+- [Review Policies with Comments](https://docs.sprinto.com/policies/dashboard-actions/review-policies-with-comments.md): Enable collaborative policy review with in-line comments before a document is approved.
+- [Map Security Controls to Policies](https://docs.sprinto.com/policies/dashboard-actions/map-security-controls-to-policies.md): Link your policies to relevant controls to support evidence collection and compliance reporting.
+- [Manage Policy Branding and Downloads](https://docs.sprinto.com/policies/dashboard-actions/manage-policy-branding-and-downloads.md): Apply your organisation’s branding to all policies and download documents for sharing, record-keeping, or audit submission.
+- [Policy Registers](https://docs.sprinto.com/policies/dashboard-actions/policy-registers.md): Create, manage, archive, and track policy registers in Sprinto to organise policies by zones, send acknowledgement requests, and monitor completion status.
+- [Track Policy Status and History](https://docs.sprinto.com/policies/dashboard-actions/track-policy-status-and-history.md): Track policy versions, approvals, and control mappings in Sprinto to ensure continuous compliance and audit readiness.
+- [Send a Policy Acknowledgement Request](https://docs.sprinto.com/policies/dashboard-actions/send-a-policy-acknowledgement-request.md): Request employees to review and acknowledge policies as part of onboarding or periodic compliance.
+- [Track Policy Acknowledgement Status](https://docs.sprinto.com/policies/dashboard-actions/track-policy-acknowledgement-status.md): Monitor which employees have acknowledged assigned policies, and identify those who are overdue or non-compliant.
+- [View Acknowledgement History for an Employee](https://docs.sprinto.com/policies/dashboard-actions/view-acknowledgement-history-for-an-employee.md): View detailed acknowledgement history for each employee to track policy compliance and audit readiness over time.
+- [Set Up Policy Monitoring Checks](https://docs.sprinto.com/policies/dashboard-actions/set-up-policy-monitoring-checks.md): Set up recurring policy monitoring checks in Sprinto to ensure timely reviews, acknowledgements, and compliance tracking.
+- [Track Policy Check Outcomes](https://docs.sprinto.com/policies/dashboard-actions/track-policy-check-outcomes.md): Track policy check outcomes in Sprinto to identify compliance gaps, manage overdue tasks, and maintain audit readiness.
+- [Policy Acknowledgement in Slack](https://docs.sprinto.com/policies/dashboard-actions/policy-acknowledgement-in-slack.md): Allow staff to review and acknowledge Sprinto policies directly within Slack, without switching to the Employee Portal.
+- [Sync Policies & Documents from Confluence](https://docs.sprinto.com/policies/dashboard-actions/sync-policies-and-documents-from-confluence.md)
+- [Frequently Asked Questions](https://docs.sprinto.com/policies/frequently-asked-questions.md): Get quick answers to common questions about creating, reviewing, and managing policies in Sprinto’s compliance platform.
+- [Glossary](https://docs.sprinto.com/policies/glossary.md)
+- [Overview](https://docs.sprinto.com/risks/overview.md)
+- [How it Works](https://docs.sprinto.com/risks/how-it-works.md)
+- [Dashboard Actions](https://docs.sprinto.com/risks/dashboard-actions.md)
+- [Create a Risk Register Entry](https://docs.sprinto.com/risks/dashboard-actions/create-a-risk-register-entry.md)
+- [Risk Registers](https://docs.sprinto.com/risks/dashboard-actions/risk-registers.md): Create and manage multiple risk registers in Sprinto to segment risks by teams, regions, or frameworks while retaining consistent risk management workflows.
+- [Add Risks To Zones](https://docs.sprinto.com/risks/dashboard-actions/add-risks-to-zones.md)
+- [Score a Risk](https://docs.sprinto.com/risks/dashboard-actions/score-a-risk.md)
+- [Create Custom Risk Scores](https://docs.sprinto.com/risks/dashboard-actions/create-custom-risk-scores.md): Create custom risk scores in Sprinto using flexible scoring logic to accurately assess and prioritise organisational risks.
+- [Risk Assessment for Zones](https://docs.sprinto.com/risks/dashboard-actions/risk-assessment-for-zones.md)
+- [Map Controls to a Risk](https://docs.sprinto.com/risks/dashboard-actions/map-controls-to-a-risk.md)
+- [Define and Track Risk Treatments](https://docs.sprinto.com/risks/dashboard-actions/define-and-track-risk-treatments.md)
+- [Conduct a Risk Assessment](https://docs.sprinto.com/risks/dashboard-actions/conduct-a-risk-assessment.md)
+- [Risk Intake](https://docs.sprinto.com/risks/dashboard-actions/risk-intake.md): Enable employees to report risks and streamline risk review with Sprinto’s Risk Intake workflow, from submission to approval or rejection.
+- [Edit a Risk](https://docs.sprinto.com/risks/dashboard-actions/edit-a-risk.md)
+- [Archive a Risk](https://docs.sprinto.com/risks/dashboard-actions/delete-a-risk.md)
+- [Systems Checks and Notifications](https://docs.sprinto.com/risks/dashboard-actions/systems-checks-and-notifications.md)
+- [Frequently Asked Questions (FAQs)](https://docs.sprinto.com/risks/frequently-asked-questions-faqs.md)
+- [Glossary](https://docs.sprinto.com/risks/glossary.md): Use this glossary to familiarise yourself with the terminology used across risk workflows in Sprinto.
+- [Frameworks](https://docs.sprinto.com/compliance/frameworks.md): Understand the Frameworks section in Sprinto and how it supports compliance mapping, monitoring, and reporting.
+- [How it Works](https://docs.sprinto.com/compliance/frameworks/how-it-works.md): Understand how Sprinto’s Frameworks section works, from enabling a framework to monitoring compliance readiness.
+- [Dashboard Actions](https://docs.sprinto.com/compliance/frameworks/dashboard-actions.md): Learn about the key actions you can perform in Sprinto’s Frameworks dashboard, from enabling frameworks to mapping controls.
+- [Enable and Configure Frameworks](https://docs.sprinto.com/compliance/frameworks/dashboard-actions/enable-and-configure-frameworks.md): Learn how to enable, configure, and add custom compliance frameworks in Sprinto.
+- [View and Manage Criteria](https://docs.sprinto.com/compliance/frameworks/dashboard-actions/view-and-manage-criteria.md): Learn how to view, search, filter, and manage criteria within a compliance framework in Sprinto.
+- [Frequently Asked Questions](https://docs.sprinto.com/compliance/frameworks/frequently-asked-questions.md): Find answers to frequently asked questions about managing frameworks in Sprinto.
+- [Glossary](https://docs.sprinto.com/compliance/frameworks/glossary.md): Definitions of key terms used in the Frameworks section of Sprinto.
+- [Controls](https://docs.sprinto.com/compliance/controls.md): Manage a control in Sprinto by mapping checks, editing details, disabling it, and managing associated frameworks and criteria to keep compliance requirements up to date.
+- [How it Works](https://docs.sprinto.com/compliance/controls/how-it-works.md): Learn how to manage a control in Sprinto by mapping checks, editing details, disabling controls, and managing associated frameworks and criteria.
+- [Dashboard Actions](https://docs.sprinto.com/compliance/controls/dashboard-actions.md)
+- [Add Controls](https://docs.sprinto.com/compliance/controls/dashboard-actions/add-controls.md): Add a new control in Sprinto manually or in bulk using the CSV template to define and track compliance requirements effectively.
+- [Manage a Control](https://docs.sprinto.com/compliance/controls/dashboard-actions/manage-a-control.md): Manage a control in Sprinto by mapping or unmapping checks, editing details, disabling controls, and managing associated frameworks and criteria.
+- [Frequently Asked Actions](https://docs.sprinto.com/compliance/controls/frequently-asked-actions.md): Find answers to common questions about adding, managing, and mapping controls in Sprinto’s Compliance section.
+- [Glossary](https://docs.sprinto.com/compliance/controls/glossary.md): Glossary of key terms used in the Controls section of Sprinto’s Compliance module.
+- [Compliance Documents](https://docs.sprinto.com/compliance/compliance-documents.md)
+- [Overview](https://docs.sprinto.com/integrations/overview.md): Connect Sprinto with HR, security, analytics, and compliance tools like Zoho, Zoom, Microsoft Defender, and Oracle HCM to automate workflows and stay audit-ready.
+- [Permissions and Resource Usage in Sprinto Integrations](https://docs.sprinto.com/integrations/overview/permissions-and-resource-usage-in-sprinto-integrations.md)
+- [Resolve Integration Errors](https://docs.sprinto.com/integrations/overview/resolve-integration-errors.md)
+- [UKG Integration](https://docs.sprinto.com/integrations/overview/ukg-integration.md)
+- [OneLogin Integration](https://docs.sprinto.com/integrations/overview/onelogin-integration.md)
+- [A-LIGN Integration](https://docs.sprinto.com/integrations/overview/a-lign-integration.md): Connect A-LIGN with Sprinto to automate audit evidence submission using your A-LIGN API credentials.
+- [Azure DevOps Integration](https://docs.sprinto.com/integrations/overview/azure-devops-integration.md)
+- [Avoma Integration](https://docs.sprinto.com/integrations/overview/avoma-integration.md)
+- [Freshdesk Integration](https://docs.sprinto.com/integrations/overview/freshdesk-integration.md)
+- [Freshservice Integration (Access Review)](https://docs.sprinto.com/integrations/overview/freshservice-integration-access-review.md): Connect Freshservice with Sprinto to automate access reviews and monitor user account status for compliance checks.
+- [Freshservice Integration (Ticketing and Incident Management)](https://docs.sprinto.com/integrations/overview/freshservice-integration-ticketing-and-incident-management.md): Integrate Freshservice with Sprinto to automatically sync tickets and incidents as evidence for change management and incident-related compliance controls.
+- [Tableau Integration](https://docs.sprinto.com/integrations/overview/tableau-integration.md)
+- [Canva Integration](https://docs.sprinto.com/integrations/overview/canva-integration.md)
+- [Help Scout Access Management Integration](https://docs.sprinto.com/integrations/overview/help-scout-access-management-integration.md)
+- [Salesflare Integration](https://docs.sprinto.com/integrations/overview/salesflare-integration.md)
+- [ScaleFusion Integration](https://docs.sprinto.com/integrations/overview/scalefusion-integration.md): Learn how to integrate ScaleFusion with Sprinto to sync device data and automate endpoint compliance checks.
+- [CrowdStrike EDR Integration](https://docs.sprinto.com/integrations/overview/crowdstrike-edr-integration.md): Learn how to connect CrowdStrike EDR with Sprinto to sync endpoint, device, and threat alert data for compliance monitoring.
+- [Cyberark Integration](https://docs.sprinto.com/integrations/overview/cyberark-integration.md)
+- [Wiz CSPM Integration (CSPM Ingestion)](https://docs.sprinto.com/integrations/overview/wiz-cspm-integration-cspm-ingestion.md): Connect Wiz CSPM with Sprinto to ingest cloud security findings, reports, and vulnerabilities using OAuth client credentials and automate continuous security monitoring.
+- [Zscaler Integration](https://docs.sprinto.com/integrations/overview/zscaler-integration.md)
+- [Endpoint Central Integration](https://docs.sprinto.com/integrations/overview/endpoint-central-integration.md)
+- [Microsoft Intune Integration](https://docs.sprinto.com/integrations/overview/microsoft-intune-integration.md): Integrate Microsoft Intune with Sprinto to automate device compliance checks, monitor security posture, and sync device data using Microsoft Graph APIs.
+- [Jira Active Sync Integration](https://docs.sprinto.com/integrations/overview/jira-active-sync-integration.md)
+- [Atera Integration](https://docs.sprinto.com/integrations/overview/atera-integration.md)
+- [Google Analytics Integration](https://docs.sprinto.com/integrations/overview/google-analytics-integration.md)
+- [Front Integration](https://docs.sprinto.com/integrations/overview/front-integration.md)
+- [Paylocity Integration](https://docs.sprinto.com/integrations/overview/paylocity-integration.md)
+- [Integrate Paycom with Sprinto HRMS](https://docs.sprinto.com/integrations/overview/integrate-paycom-with-sprinto-hrms.md)
+- [Checkr Integration](https://docs.sprinto.com/integrations/overview/checkr-integration.md): Connect Checkr with Sprinto to automate background verification checks, sync employee screening reports, and monitor compliance status.
+- [Freshteam Integration](https://docs.sprinto.com/integrations/overview/freshteam-integration.md)
+- [Amazon Web Services (AWS) Integration](https://docs.sprinto.com/integrations/overview/amazon-web-services-aws-integration.md): Connect AWS with Sprinto to automatically monitor cloud infrastructure, enforce security best practices, and stay continuously compliant with 70+ automated checks.
+- [Adobe Sign Integration](https://docs.sprinto.com/integrations/overview/adobe-sign-integration.md)
+- [Calendly Integration](https://docs.sprinto.com/integrations/overview/calendly-integration.md)
+- [Salesforce Integration](https://docs.sprinto.com/integrations/overview/salesforce-integration.md)
+- [Google Security Command Center Integration](https://docs.sprinto.com/integrations/overview/google-security-command-center-integration.md)
+- [FreeAgent Integration](https://docs.sprinto.com/integrations/overview/freeagent-integration.md)
+- [ActiveCampaign Integration](https://docs.sprinto.com/integrations/overview/activecampaign-integration.md)
+- [Accelo Integration](https://docs.sprinto.com/integrations/overview/accelo-integration.md)
+- [Adobe Access Management Integration](https://docs.sprinto.com/integrations/overview/adobe-access-management-integration.md)
+- [Airtable Integration](https://docs.sprinto.com/integrations/overview/airtable-integration.md)
+- [ADP Workforce Now Integration](https://docs.sprinto.com/integrations/overview/adp-workforce-now-integration.md): Learn how to connect ADP Workforce Now with Sprinto to sync employee, employment, and organisational data for compliance automation.
+- [AlexisHR Integration](https://docs.sprinto.com/integrations/overview/alexishr-integration.md)
+- [Asana (Access Review) Integration](https://docs.sprinto.com/integrations/overview/asana-access-review-integration.md): Connect Asana with Sprinto to automate access reviews, monitor user access, and ensure offboarding compliance.
+- [Asana (Ticketing System) Integration](https://docs.sprinto.com/integrations/overview/asana-ticketing-system-integration.md): Connect Asana with Sprinto to automate ticket-based evidence collection, track change management, and monitor compliance workflows.
+- [Atera Integration](https://docs.sprinto.com/integrations/overview/atera-integration-1.md)
+- [AWS CodeCommit Integration](https://docs.sprinto.com/integrations/overview/aws-codecommit-integration.md): Learn how to connect AWS CodeCommit with Sprinto to automate repository monitoring, access reviews, and evidence collection using an IAM role and AWS CodeCommit read-only permissions.
+- [AWS GovCloud Integration](https://docs.sprinto.com/integrations/overview/aws-govcloud-integration.md)
+- [Azure Active Directory Integration](https://docs.sprinto.com/integrations/overview/azure-active-directory-integration.md): Integrate Azure Active Directory (Entra ID) with Sprinto to automate access reviews, user sync, and infrastructure monitoring.
+- [AWS Security Hub Integration](https://docs.sprinto.com/integrations/overview/aws-security-hub-integration.md)
+- [Azure Devops Integration (Version Control System)](https://docs.sprinto.com/integrations/overview/azure-devops-integration-version-control-system.md)
+- [Azure Devops Ticketing System Integration](https://docs.sprinto.com/integrations/overview/azure-devops-ticketing-system-integration.md)
+- [Azure Integration](https://docs.sprinto.com/integrations/overview/azure-integration.md): Connect Microsoft Azure to Sprinto to automate cloud security monitoring and continuously sync subscription data for compliance reporting.
+- [BambooHR Integration](https://docs.sprinto.com/integrations/overview/bamboo-hr-integration.md)
+- [Deel Integration](https://docs.sprinto.com/integrations/overview/deel-integration.md): Learn how to integrate Deel with Sprinto to automatically sync employee data for onboarding and offboarding management.
+- [Basecamp Integration](https://docs.sprinto.com/integrations/overview/basecamp-integration.md)
+- [Bitbucket Integration](https://docs.sprinto.com/integrations/overview/bitbucket-integration.md): Learn how to integrate Bitbucket with Sprinto to automate version control checks, configure change management, and set up access reviews.
+- [Box Integration](https://docs.sprinto.com/integrations/overview/box-integration.md)
+- [Britive Integration](https://docs.sprinto.com/integrations/overview/britive-integration.md)
+- [BrowserStack Integration](https://docs.sprinto.com/integrations/overview/browserstack-integration.md)
+- [Canva Integration](https://docs.sprinto.com/integrations/overview/canva-integration-1.md)
+- [Capsule Integration](https://docs.sprinto.com/integrations/overview/capsule-integration.md)
+- [Dayforce HCM Integration (Beta)](https://docs.sprinto.com/integrations/overview/dayforce-hcm-integration-beta.md)
+- [Certn Integtation](https://docs.sprinto.com/integrations/overview/certn-integtation.md)
+- [ChartHop Integration](https://docs.sprinto.com/integrations/overview/charthop-integration.md)
+- [Cisco Meraki Integration](https://docs.sprinto.com/integrations/overview/cisco-meraki-integration.md)
+- [ClickUp Integration](https://docs.sprinto.com/integrations/overview/clickup-integration.md)
+- [Close Integration](https://docs.sprinto.com/integrations/overview/close-integration.md)
+- [Cloudflare Integration](https://docs.sprinto.com/integrations/overview/cloudflare-integration.md): Connect Cloudflare with Sprinto to automate access reviews and monitor infrastructure security configurations for compliance.
+- [Coda Integration](https://docs.sprinto.com/integrations/overview/coda-integration.md)
+- [Codacy Integration](https://docs.sprinto.com/integrations/overview/codacy-integration.md)
+- [Confluence Integration](https://docs.sprinto.com/integrations/overview/confluence-integration.md): Learn how to integrate Confluence with Sprinto to automate access reviews and policy evidence collection using OAuth or API-based authentication.
+- [Constant Contact Integration](https://docs.sprinto.com/integrations/overview/constant-contact-integration.md)
+- [Copper Integration](https://docs.sprinto.com/integrations/overview/copper-integration.md)
+- [Curricula Integration](https://docs.sprinto.com/integrations/overview/curricula-integration.md): Learn how to integrate Curricula with Sprinto to automate training compliance checks and sync learner activity.
+- [Darwinbox Integration](https://docs.sprinto.com/integrations/overview/darwinbox-integration.md)
+- [Datadog Integration](https://docs.sprinto.com/integrations/overview/datadog-integration.md): Integrate Datadog with Sprinto to automate infrastructure monitoring, incident management, and access reviews for continuous compliance.
+- [DeepSource Integration](https://docs.sprinto.com/integrations/overview/deepsource-integration.md)
+- [DigitalOcean Integration](https://docs.sprinto.com/integrations/overview/digitalocean-integration.md): Integrate DigitalOcean with Sprinto to automate infrastructure monitoring and continuously track access controls for compliance.
+- [Docker Hub Integration](https://docs.sprinto.com/integrations/overview/docker-hub-integration.md)
+- [Dropbox Integration](https://docs.sprinto.com/integrations/overview/dropbox-integration.md)
+- [DocuSign Integration](https://docs.sprinto.com/integrations/overview/docusign-integration.md): Connect DocuSign with Sprinto to automate access reviews and manage NDA signing workflows using secure OAuth-based authentication.
+- [DocuSign NDA Integration](https://docs.sprinto.com/integrations/overview/docusign-nda-integration.md)
+- [Endpoint Central Integration](https://docs.sprinto.com/integrations/overview/endpoint-central-integration-1.md)
+- [FactorialHR Integration](https://docs.sprinto.com/integrations/overview/factorialhr-integration.md)
+- [Figma Integration](https://docs.sprinto.com/integrations/overview/figma-integration.md)
+- [Files.com Integration](https://docs.sprinto.com/integrations/overview/files.com-integration.md)
+- [Fireflies AI Integration](https://docs.sprinto.com/integrations/overview/fireflies-ai-integration.md)
+- [Freshteam Integration](https://docs.sprinto.com/integrations/overview/freshteam-integration-1.md)
+- [GCP Integration (via Access Management)](https://docs.sprinto.com/integrations/overview/gcp-integration-via-access-management.md)
+- [GCP Integration (via Cloud Shell)](https://docs.sprinto.com/integrations/overview/gcp-integration-via-cloud-shell.md)
+- [GCP Integration](https://docs.sprinto.com/integrations/overview/gcp-integration.md): Connect Sprinto with Google Cloud Platform (GCP) to automate infrastructure monitoring and compliance checks using Workload Identity Federation or legacy JSON key-based authentication.
+- [GCP Integration (Old Flow)](https://docs.sprinto.com/integrations/overview/gcp-integration/gcp-integration-old-flow.md)
+- [Github + Dependabot Integration](https://docs.sprinto.com/integrations/overview/github-+-dependabot-integration.md)
+- [Github App Integration](https://docs.sprinto.com/integrations/overview/github-integration.md): Connect the GitHub App to Sprinto to automatically monitor repositories, access controls, and security checks for continuous compliance.
+- [Github Issues Integration](https://docs.sprinto.com/integrations/overview/github-issues-integration.md): Integrate GitHub Issues with Sprinto to automate change management evidence collection and sync tickets directly to relevant controls and checks.
+- [GitLab Integration](https://docs.sprinto.com/integrations/overview/gitlab-integration.md): Learn how to integrate GitLab with Sprinto to automate access reviews, version control checks, and compliance evidence collection.
+- [Google Analytics](https://docs.sprinto.com/integrations/overview/google-analytics.md)
+- [Google Docs Integration](https://docs.sprinto.com/integrations/overview/google-docs-integration.md): Connect Google Docs with Sprinto to automatically sync policy documents and manage compliance documentation directly from your Google Workspace.
+- [Google Workspace Identity Provider & Access Review Integration](https://docs.sprinto.com/integrations/overview/google-workspace-integration.md): Learn how to integrate Google Workspace with Sprinto for Identity Provider (SSO) and Access Review to automate user management, audit tracking, and compliance monitoring.
+- [Resolve 400 Error for Super Admins During G Suite Integration](https://docs.sprinto.com/integrations/overview/google-workspace-integration/resolve-400-error-for-super-admins-during-g-suite-integration.md)
+- [Google Workspace Chromebook (Staff Device Management) Integration](https://docs.sprinto.com/integrations/overview/google-workspace-chromebook-staff-device-management-integration.md): Integrate Google Workspace Chromebook with Sprinto to monitor device compliance, security posture, and user-device mapping for audits.
+- [Google Workspace Employee Groups Integration](https://docs.sprinto.com/integrations/overview/google-workspace-employee-groups-integration.md): Connect Google Employee Groups to Sprinto to automatically sync group memberships from Google Workspace for access reviews and compliance checks.
+- [Google Workspace Vendor Discovery Integration](https://docs.sprinto.com/integrations/overview/google-workspace-vendor-discovery-integration.md): Connect Google Workspace Vendor Discovery to Sprinto to automatically identify third-party vendors accessed through Google Workspace SSO for compliance and risk assessment.
+- [Gorgias Integration](https://docs.sprinto.com/integrations/overview/gorgias-integration.md)
+- [Grafana Integration](https://docs.sprinto.com/integrations/overview/grafana-integration.md)
+- [Gusto Integration](https://docs.sprinto.com/integrations/overview/gusto-integration.md)
+- [GreytHR Integration](https://docs.sprinto.com/integrations/overview/greythr-integration.md)
+- [Halo Security Integration](https://docs.sprinto.com/integrations/overview/halo-security-integration.md)
+- [Help Scout Integration](https://docs.sprinto.com/integrations/overview/help-scout-integration.md)
+- [Heroku Integration](https://docs.sprinto.com/integrations/overview/heroku-integration.md): Connect Heroku with Sprinto to automate infrastructure monitoring, sync account data, and continuously track compliance controls.
+- [Hexnode Integration](https://docs.sprinto.com/integrations/overview/hexnode-integration.md)
+- [HiBob Integration](https://docs.sprinto.com/integrations/overview/hibob-integration.md)
+- [HR Cloud Integration](https://docs.sprinto.com/integrations/overview/hr-cloud-integration.md)
+- [HR Partner Integration](https://docs.sprinto.com/integrations/overview/hr-partner-integration.md)
+- [Hubspot Integration](https://docs.sprinto.com/integrations/overview/hubspot-integration.md)
+- [Humaans Integration](https://docs.sprinto.com/integrations/overview/humaans-integration.md)
+- [Insightly Integration](https://docs.sprinto.com/integrations/overview/insightly-integration.md)
+- [IntelliHR Integration](https://docs.sprinto.com/integrations/overview/intellihr-integration.md)
+- [Intercom Integration](https://docs.sprinto.com/integrations/overview/intercom-integration.md)
+- [Intruder Integration](https://docs.sprinto.com/integrations/overview/intruder-integration.md)
+- [Jamf Integration (Staff Device Management)](https://docs.sprinto.com/integrations/overview/jamf-integration.md): Learn how to integrate Jamf with Sprinto for Staff Device Management to automate device inventory, encryption checks, OS monitoring, and compliance evidence collection.
+- [Jamf Integration (Access Review)](https://docs.sprinto.com/integrations/overview/jamf-integration-access-review.md): Learn how to integrate Jamf Access Review with Sprinto to automate administrative access reviews, sync Jamf users and permissions, and monitor account access for compliance.
+- [Jamf - API Roles & Clients](https://docs.sprinto.com/integrations/overview/jamf-api-roles-and-clients.md)
+- [Jenkins Integration](https://docs.sprinto.com/integrations/overview/jenkins-integration.md): Integrate Jenkins with Sprinto to automate access reviews and monitor user access for compliance.
+- [JetBrains Integration](https://docs.sprinto.com/integrations/overview/jetbrains-integration.md)
+- [JumpCloud Integration](https://docs.sprinto.com/integrations/overview/jumpcloud-integration.md): Connect JumpCloud with Sprinto to automate device compliance checks, user access monitoring, and evidence collection using API key authentication.
+- [Jira Integration](https://docs.sprinto.com/integrations/overview/jira-integration.md): Learn how to integrate Jira with Sprinto using OAuth or API key to automate ticketing, incident management, vulnerability tracking, project management, and access reviews.
+- [Justworks Integration](https://docs.sprinto.com/integrations/overview/justworks-integration.md)
+- [Kallidus Integration](https://docs.sprinto.com/integrations/overview/kallidus-integration.md)
+- [Iru (Kandji) Integration](https://docs.sprinto.com/integrations/overview/kandji-integration.md)
+- [Keap Integration](https://docs.sprinto.com/integrations/overview/keap-integration.md)
+- [Keeper Security Integration](https://docs.sprinto.com/integrations/overview/keep-integration.md)
+- [Keka Integration](https://docs.sprinto.com/integrations/overview/keka-integration.md)
+- [KnowBe4 Integration](https://docs.sprinto.com/integrations/overview/knowbe4-integration.md): Connect KnowBe4 with Sprinto to automate security awareness training tracking, campaign monitoring, and compliance evidence collection.
+- [Lattice Integration](https://docs.sprinto.com/integrations/overview/lattice-integration.md): Connect Lattice HRIS with Sprinto to automatically sync employee data and monitor staff onboarding, offboarding, and reporting relationships for compliance checks.
+- [LastPass Integration](https://docs.sprinto.com/integrations/overview/lastpass-integration.md)
+- [Linear (Ticketing System) Integration](https://docs.sprinto.com/integrations/overview/linear-ticketing-system-integration.md)
+- [ManageEngine ServiceDesk Plus Integration (Access Review)](https://docs.sprinto.com/integrations/overview/manageengine-servicedesk-plus-integration-access-review.md): Learn how to integrate ManageEngine ServiceDesk Plus with Sprinto for Access Review to monitor user access, roles, account status, and MFA compliance.
+- [Metabase Integration](https://docs.sprinto.com/integrations/overview/metabase-integration.md)
+- [Microsoft Entra ID Integration](https://docs.sprinto.com/integrations/overview/microsoft-entra-id-integration.md)
+- [Microsoft Teams Integration](https://docs.sprinto.com/integrations/overview/microsoft-teams-integration.md)
+- [Monday Integration](https://docs.sprinto.com/integrations/overview/monday-integration.md)
+- [Miro Integration](https://docs.sprinto.com/integrations/overview/miro-integration.md)
+- [MongoDB Atlas Integration](https://docs.sprinto.com/integrations/overview/mongodb-atlas-integration.md): Connect MongoDB Atlas with Sprinto to automate access reviews, monitor database configurations, and ensure compliance using API-based integration.
+- [Moneybird Integration](https://docs.sprinto.com/integrations/overview/moneybird-integration.md)
+- [Namely Integration](https://docs.sprinto.com/integrations/overview/namely-integration.md): Integrate your Namely HR platform with Sprinto to automatically sync employee data, streamline onboarding checks, and maintain compliance visibility.
+- [Netlify Integration](https://docs.sprinto.com/integrations/overview/netlify-integration.md)
+- [New Relic Integration](https://docs.sprinto.com/integrations/overview/new-relic-integration.md)
+- [NinjaOne Integration](https://docs.sprinto.com/integrations/overview/ninjaone-integration.md)
+- [Notion Integration](https://docs.sprinto.com/integrations/overview/notion-integration.md)
+- [Office 365 Identity Provider and Access Review Integration](https://docs.sprinto.com/integrations/overview/office365-integration.md): Connect Office 365 as an identity provider in Sprinto to sync user identities and enable automated access reviews for compliance checks.
+- [Office 365 Employee Groups Integration](https://docs.sprinto.com/integrations/overview/office-365-employee-groups-integration.md): Connect Office 365 Employee Groups to Sprinto to automatically sync group memberships from Microsoft Entra ID for access reviews and compliance checks.
+- [Office 365 Vendor Discovery Integration](https://docs.sprinto.com/integrations/overview/office-365-vendor-discovery-integration.md): Connect Office 365 Vendor Discovery to Sprinto to automatically identify third-party vendors accessed through Microsoft 365 SSO for compliance and risk assessment.
+- [Okta Integration](https://docs.sprinto.com/integrations/overview/okta-integration.md): Connect Okta with Sprinto to automate user access reviews, identity management, and employee group sync for compliance.
+- [OpenVPN Integration](https://docs.sprinto.com/integrations/overview/openvpn-integration.md)
+- [OpsGenie Integration](https://docs.sprinto.com/integrations/overview/opsgenie-integration.md): Integrate OpsGenie with Sprinto to automatically sync incidents for continuous monitoring, evidence collection, and compliance tracking.
+- [Oracle Cloud Integration](https://docs.sprinto.com/integrations/overview/oracle-cloud-integration.md)
+- [Oracle NetSuite Integration](https://docs.sprinto.com/integrations/overview/oracle-netsuite-integration.md): Connect Oracle NetSuite to Sprinto to securely sync user and role data using token-based authentication for automated access reviews and compliance checks.
+- [Outreach Integration](https://docs.sprinto.com/integrations/overview/outreach-integration.md)
+- [PagerDuty Integration](https://docs.sprinto.com/integrations/overview/pagerduty-integration.md)
+- [PandaDocs Integration](https://docs.sprinto.com/integrations/overview/pandadocs-integration.md)
+- [Paychex Integration](https://docs.sprinto.com/integrations/overview/paychex-integration.md)
+- [Paylocity Integration](https://docs.sprinto.com/integrations/overview/paylocity-integration-1.md)
+- [Personio Integration](https://docs.sprinto.com/integrations/overview/personio-integration.md)
+- [PostHog Integration](https://docs.sprinto.com/integrations/overview/posthog-integration.md)
+- [Pipedrive Integration](https://docs.sprinto.com/integrations/overview/pipedrive-integration.md)
+- [Postman Integration](https://docs.sprinto.com/integrations/overview/postman-integration.md)
+- [Qualys Integration](https://docs.sprinto.com/integrations/overview/qualys-integration.md)
+- [RapidFort Integration](https://docs.sprinto.com/integrations/overview/rapidfort-integration.md): Integrate RapidFort with Sprinto to automatically collect vulnerability scan findings and map them to compliance controls.
+- [Rippling Integration](https://docs.sprinto.com/integrations/overview/rippling-integration.md): Learn how to integrate Rippling with Sprinto to automate device compliance checks and sync staff details for workforce management.
+- [Sage HR Integration](https://docs.sprinto.com/integrations/overview/sage-hr-integration.md)
+- [SAP SuccessFactors Integration](https://docs.sprinto.com/integrations/overview/sap-successfactors-integration.md)
+- [Self-Hosted GitLab Integration](https://docs.sprinto.com/integrations/overview/self-hosted-gitlab-integration.md): Integrate self-hosted GitLab with Sprinto to automate change management monitoring and validate repository security controls using secure OAuth credentials.
+- [Semgrep Integration](https://docs.sprinto.com/integrations/overview/semgrep-integration.md)
+- [SendGrid Integration](https://docs.sprinto.com/integrations/overview/sendgrid-integration.md)
+- [SentinelOne Integration](https://docs.sprinto.com/integrations/overview/sentinelone-integration.md): Integrate SentinelOne with Sprinto to automatically sync device and vulnerability data for continuous compliance monitoring and evidence collection.
+- [Sentry Integration](https://docs.sprinto.com/integrations/overview/sentry-integration.md)
+- [ServiceNow Integration](https://docs.sprinto.com/integrations/overview/servicenow-integration.md): Integrate ServiceNow with Sprinto to automate ticketing, incident management, and compliance evidence collection.
+- [Sesame HR Integration](https://docs.sprinto.com/integrations/overview/sesame-hr-integration.md)
+- [SharePoint Integration](https://docs.sprinto.com/integrations/overview/sharepoint-integration.md)
+- [Sync Policies & Documents from SharePoint](https://docs.sprinto.com/integrations/overview/sync-policies-and-documents-from-sharepoint.md): Sync policies, procedures, and compliance documents from SharePoint into Sprinto with version tracking, keyword-based discovery, and audit-ready workflows.
+- [Shortcut Integration](https://docs.sprinto.com/integrations/overview/shortcut-integration.md)
+- [Slack Integration](https://docs.sprinto.com/integrations/overview/slack-integration.md)
+- [SLScan Integration](https://docs.sprinto.com/integrations/overview/slscan-integration.md)
+- [Smartsheet Integration](https://docs.sprinto.com/integrations/overview/smartsheet-integration.md)
+- [Snowflake Integration](https://docs.sprinto.com/integrations/overview/snowflake-integration.md)
+- [Snyk Integration](https://docs.sprinto.com/integrations/overview/snyk-integration.md)
+- [Socket Integration](https://docs.sprinto.com/integrations/overview/socket-integration.md)
+- [SonarCloud Integration](https://docs.sprinto.com/integrations/overview/sonarcloud-integration.md): Integrate SonarCloud with Sprinto to automatically import and monitor code vulnerabilities for compliance.
+- [SonarQube Integration](https://docs.sprinto.com/integrations/overview/sonarqube-integration.md): Connect SonarQube with Sprinto to automatically track code vulnerabilities, monitor remediation timelines, and stay compliant with security standards.
+- [Sophos Integration](https://docs.sprinto.com/integrations/overview/sophos-integration.md): Connect Sophos with Sprinto to automatically sync device and user data for compliance monitoring and evidence collection.
+- [Spring Verify Integration](https://docs.sprinto.com/integrations/overview/spring-verify-integration.md): Integrate Spring Verify with Sprinto to automate employee background verification tracking and ensure continuous compliance across India and US regions.
+- [Tailscale Integration](https://docs.sprinto.com/integrations/overview/tailscale-integration.md)
+- [Teamleader Integration](https://docs.sprinto.com/integrations/overview/teamleader-integration.md)
+- [Trello Integration](https://docs.sprinto.com/integrations/overview/trello-integration.md)
+- [TriNet Integration](https://docs.sprinto.com/integrations/overview/trinet-integration.md)
+- [Typeform Integration](https://docs.sprinto.com/integrations/overview/typeform-integration.md)
+- [UKG Pro Integration](https://docs.sprinto.com/integrations/overview/ukg-pro-integration.md)
+- [UKG Ready Integration](https://docs.sprinto.com/integrations/overview/ukg-ready-integration.md): Integrate UKG Ready with Sprinto to automatically sync employee records, onboarding and offboarding status, reporting structures, and workforce data for compliance monitoring.
+- [Visma Nmbrs Integration](https://docs.sprinto.com/integrations/overview/visma-nmbrs-integration.md)
+- [Webex Integration](https://docs.sprinto.com/integrations/overview/webex-integration.md)
+- [Wingman Integration](https://docs.sprinto.com/integrations/overview/wingman-integration.md)
+- [Workday Integration](https://docs.sprinto.com/integrations/overview/workday-integration.md)
+- [Xero Integration](https://docs.sprinto.com/integrations/overview/xero-integration.md): Connect Xero with Sprinto to automate access reviews, monitor user access, and ensure offboarding compliance for accounting systems.
+- [YouTrack Integration](https://docs.sprinto.com/integrations/overview/youtrack-integration.md)
+- [Zapier Integration](https://docs.sprinto.com/integrations/overview/zapier-integration.md)
+- [Zenefits Integration](https://docs.sprinto.com/integrations/overview/zenefits-integration.md)
+- [Zendesk Sell Integration](https://docs.sprinto.com/integrations/overview/zendesk-sell-integration.md)
+- [ZingHR Integration](https://docs.sprinto.com/integrations/overview/zinghr-integration.md): Connect ZingHR with Sprinto to automatically sync employee data and track staff onboarding, offboarding, and reporting relationships for compliance monitoring.
+- [Zoho Integration](https://docs.sprinto.com/integrations/overview/zoho-integration.md)
+- [Zoho Analytics Integration](https://docs.sprinto.com/integrations/overview/zoho-analytics-integration.md): Connect Zoho Analytics with Sprinto to automate access reviews, monitor user access, and maintain compliance using OAuth-based integration.
+- [Zoho People Integration](https://docs.sprinto.com/integrations/overview/zoho-people-integration.md): Connect Zoho People with Sprinto to automatically sync employee data, monitor employment status, and streamline people-related compliance checks.
+- [Zoho Vault Integration](https://docs.sprinto.com/integrations/overview/zoho-vault-integration.md): Connect Zoho Vault with Sprinto to automate access reviews, monitor user access, and maintain compliance using OAuth-based integration.
+- [Zoom Integration](https://docs.sprinto.com/integrations/overview/zoom-integration.md)
+- [Zscaler Integration](https://docs.sprinto.com/integrations/overview/zscaler-integration-1.md)
+- [Zoho CRM Integration](https://docs.sprinto.com/integrations/overview/zoho-crm-integration.md)
+- [Charlie Integration](https://docs.sprinto.com/integrations/overview/charlie-integration.md)
+- [Breathe Integration](https://docs.sprinto.com/integrations/overview/breathe-integration.md)
+- [Crowdstrike Spotlight Integration](https://docs.sprinto.com/integrations/overview/crowdstrike-spotlight-integration.md)
+- [Google Cloud Platform](https://docs.sprinto.com/integrations/overview/google-cloud-platform.md)
+- [Hailey HR Integration](https://docs.sprinto.com/integrations/overview/hailey-hr-integration.md)
+- [Humi Integration](https://docs.sprinto.com/integrations/overview/humi-integration.md)
+- [Incident.io Integration](https://docs.sprinto.com/integrations/overview/incident.io-integration.md)
+- [Insperity Premier Integration](https://docs.sprinto.com/integrations/overview/insperity-premier-integration.md)
+- [IRIS Cascade Integration](https://docs.sprinto.com/integrations/overview/iris-cascade-integration.md)
+- [Lucca Integration](https://docs.sprinto.com/integrations/overview/lucca-integration.md)
+- [Microsoft Defender Endpoint Integration](https://docs.sprinto.com/integrations/overview/microsoft-defender-endpoint-integration.md)
+- [Officient Integration](https://docs.sprinto.com/integrations/overview/officient-integration.md)
+- [Oracle HCM Integration](https://docs.sprinto.com/integrations/overview/oracle-hcm-integration.md)
+- [Paycom Integration](https://docs.sprinto.com/integrations/overview/paycom-integration.md)
+- [Paycor Integration](https://docs.sprinto.com/integrations/overview/paycor-integration.md)
+- [People HR Integration](https://docs.sprinto.com/integrations/overview/people-hr-integration.md)
+- [Proliant Integration](https://docs.sprinto.com/integrations/overview/proliant-integration.md)
+- [SolarWinds Service Desk Integration](https://docs.sprinto.com/integrations/overview/solarwinds-service-desk-integration.md)
+- [Tenable VM Integration](https://docs.sprinto.com/integrations/overview/tenable-vm-integration.md)
+- [Zelt Integration](https://docs.sprinto.com/integrations/overview/zelt-integration.md)
+- [Zenduty Integration](https://docs.sprinto.com/integrations/overview/zenduty-integration.md)
+- [SOC 2 Blueprint](https://docs.sprinto.com/integrations/overview/soc-2-blueprint.md)
+- [TriNet HR Platforms Integration](https://docs.sprinto.com/integrations/overview/trinet-hr-platforms-integration.md)
+- [Trust and Data Handling in Integration Aggregators](https://docs.sprinto.com/integrations/trust-and-data-handling-in-integration-aggregators.md): Learn how Sprinto leverages integration aggregators like Merge, Truto, and Leen securely to connect HR, finance, and security data sources while maintaining compliance and customer data protection.
+- [Overview](https://docs.sprinto.com/monitors/overview.md): Understand how Sprinto Monitors help your organisation stay compliant through automated checks, evidence workflows, and real-time issue resolution.
+- [Authentication & Access Monitors](https://docs.sprinto.com/monitors/authentication-and-access-monitors.md): Learn how Sprinto enforces authentication and access security through MFA, login protection, access rule monitoring, and inactive user detection.
+- [Restrict Sensitive GCP IAM Role Assignments](https://docs.sprinto.com/monitors/authentication-and-access-monitors/restrict-sensitive-gcp-iam-role-assignments.md): Prevent project-level assignment of GCP's Service Account User and Service Account Token Creator roles to IAM users by following this step-by-step guide.
+- [Enforce Org-Level and Root-Level MFA](https://docs.sprinto.com/monitors/authentication-and-access-monitors/enforce-org-level-and-root-level-mfa.md): Learn how to enforce MFA for organisation-level and root-level accounts across GitHub, AWS, Okta, Google Workspace, and Office365 to meet Sprinto monitor requirements.
+- [Enable Org level MFA on Github](https://docs.sprinto.com/monitors/authentication-and-access-monitors/enable-org-level-mfa-on-github.md)
+- [Enabling 2FA on Okta](https://docs.sprinto.com/monitors/authentication-and-access-monitors/enabling-2fa-on-okta.md)
+- [Enabling Bitbucket MFA](https://docs.sprinto.com/monitors/authentication-and-access-monitors/enabling-bitbucket-mfa.md)
+- [Enabling Google Workspace MFA](https://docs.sprinto.com/monitors/authentication-and-access-monitors/enabling-google-workspace-mfa.md)
+- [Enabling MFA for AWS IAM User](https://docs.sprinto.com/monitors/authentication-and-access-monitors/enabling-mfa-for-aws-iam-user.md)
+- [Enabling MFA on Github](https://docs.sprinto.com/monitors/authentication-and-access-monitors/enabling-mfa-on-github.md)
+- [How to resolve Sprinto check for configuring Access Rule on Critical Systems](https://docs.sprinto.com/monitors/authentication-and-access-monitors/how-to-resolve-sprinto-check-for-configuring-access-rule-on-critical-systems.md)
+- [How to manage access control to critical systems monitor](https://docs.sprinto.com/monitors/authentication-and-access-monitors/how-to-manage-access-control-to-critical-systems-monitor.md)
+- [How to resolve Sprinto check for collecting evidence against configured login protection mechanism](https://docs.sprinto.com/monitors/authentication-and-access-monitors/how-to-resolve-sprinto-check-for-collecting-evidence-against-configured-login-protection-mechanism.md)
+- [How to configure and resolve workflow checks for maintaining password policy for critical systems](https://docs.sprinto.com/monitors/authentication-and-access-monitors/how-to-configure-and-resolve-workflow-checks-for-maintaining-password-policy-for-critical-systems.md)
+- [How to configure and resolve workflow checks for setting up auto account lockout on critical systems](https://docs.sprinto.com/monitors/authentication-and-access-monitors/how-to-configure-and-resolve-workflow-checks-for-setting-up-auto-account-lockout-on-critical-systems.md)
+- [How to resolve Sprinto check for disabling inactive AWS users credentials](https://docs.sprinto.com/monitors/authentication-and-access-monitors/how-to-resolve-sprinto-check-for-disabling-inactive-aws-users-credentials.md)
+- [How to resolve Sprinto check for rotating the older IAM user access keys](https://docs.sprinto.com/monitors/authentication-and-access-monitors/how-to-resolve-sprinto-check-for-rotating-the-older-iam-user-access-keys.md)
+- [How to resolve Sprinto check to avoid using AWS IAM "root" accounts](https://docs.sprinto.com/monitors/authentication-and-access-monitors/how-to-resolve-sprinto-check-to-avoid-using-aws-iam-root-accounts.md)
+- [How to resolve Sprinto check to ensure at least one IAM policy is created for a group](https://docs.sprinto.com/monitors/authentication-and-access-monitors/how-to-resolve-sprinto-check-to-ensure-at-least-one-iam-policy-is-created-for-a-group.md)
+- [How to resolve Sprinto check to ensure that no AWS user gets assigned with IAM policies directly](https://docs.sprinto.com/monitors/authentication-and-access-monitors/how-to-resolve-sprinto-check-to-ensure-that-no-aws-user-gets-assigned-with-iam-policies-directly.md)
+- [How to resolve Sprinto check to ensure no service account on GCP account is assigned with administrator roles](https://docs.sprinto.com/monitors/authentication-and-access-monitors/how-to-resolve-sprinto-check-to-ensure-no-service-account-on-gcp-account-is-assigned-with-administra.md)
+- [How to resolve Sprinto check to ensure service accounts has access to only GCP managed access keys](https://docs.sprinto.com/monitors/authentication-and-access-monitors/how-to-resolve-sprinto-check-to-ensure-service-accounts-has-access-to-only-gcp-managed-access-keys.md)
+- [How to resolve Sprinto check to ensure external service account keys are rotated within 90 days](https://docs.sprinto.com/monitors/authentication-and-access-monitors/how-to-resolve-sprinto-check-to-ensure-external-service-account-keys-are-rotated-within-90-days.md)
+- [How to resolve Sprinto check for enabling Multi Factor Authentication (MFA) on AWS Root users](https://docs.sprinto.com/monitors/authentication-and-access-monitors/how-to-resolve-sprinto-check-for-enabling-multi-factor-authentication-mfa-on-aws-root-users.md)
+- [How to resolve Sprinto check for enabling Multi factor Authentication (MFA) on Infrastructure services](https://docs.sprinto.com/monitors/authentication-and-access-monitors/how-to-resolve-sprinto-check-for-enabling-multi-factor-authentication-mfa-on-infrastructure-services.md)
+- [Resolve Sprinto Check: Restrict Service Account Roles at Project Level](https://docs.sprinto.com/monitors/authentication-and-access-monitors/resolve-sprinto-check-restrict-service-account-roles-at-project-level.md)
+- [Resolve Sprinto Check For Removing Access For Offboarded Users](https://docs.sprinto.com/monitors/authentication-and-access-monitors/resolve-sprinto-check-for-removing-access-for-offboarded-users.md)
+- [Sync GCP Project Users from GCP Groups](https://docs.sprinto.com/monitors/authentication-and-access-monitors/sync-gcp-project-users-from-gcp-groups.md)
+- [Cloud & Infrastructure Monitoring](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring.md): Monitor critical infrastructure metrics like CPU, memory, database latency, and cloud service health across AWS, Azure, GCP, and Oracle Cloud with Sprinto’s automated monitors.
+- [AWS](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws.md): Monitor AWS infrastructure health with Sprinto by tracking EC2, EBS, ECS, DynamoDB, ALB, SQS, and ElastiCache metrics through CloudWatch alarms and compliance checks.
+- [How to resolve Sprinto check for monitoring AWS SQS message visibility](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-sqs-message-visibility.md)
+- [How to resolve Sprinto check to restric public access on AWS application load balancer](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-to-restric-public-access-on-aws-application-load-balancer.md)
+- [Activate or Deactivate AWS Monitors Using AWS Resource Tags](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/activate-or-deactivate-aws-monitors-using-aws-resource-tags.md): Learn how to activate or deactivate specific Sprinto AWS monitors using resource-level AWS tags for precise and customizable compliance monitoring.
+- [How to resolve Sprinto check for monitoring ElastiCache Current Connections](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-elasticache-current-connections.md)
+- [How to resolve Sprinto check for capturing AWS VPC flow logs](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-capturing-aws-vpc-flow-logs.md)
+- [How to resolve Sprinto check for monitoring AWS ElastiCache freeable memory](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-elasticache-freeable-memory.md)
+- [How to resolve Sprinto check for monitoring AWS Elasticsearch cluster health](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-elasticsearch-cluster-health.md)
+- [How to resolve Sprinto check for enabling AWS DynamoDB point in time recovery](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-enabling-aws-dynamodb-point-in-time-recovery.md)
+- [Enabling RDS Backup](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/enabling-rds-backup.md)
+- [How to resolve Sprinto check for monitoring AWS RDS freespace](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-rds-freespace.md)
+- [How to resolve Sprinto check for monitoring AWS RDS Database freeable memory](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-rds-database-freeable-memory.md)
+- [How to resolve Sprinto check for monitoring AWS RDS Database IO utilization](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-rds-database-io-utilization.md)
+- [How to resolve Sprinto check for protecting AWS RDS from public access](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-protecting-aws-rds-from-public-access.md)
+- [How to resolve Sprinto check for monitoring AWS RDS database CPU utilization](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-rds-database-cpu-utilization.md)
+- [How to resolve Sprinto check for monitoring AWS DynamoDB latency](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-dynamodb-latency.md)
+- [How to resolve Sprinto check for monitoring AWS DynamoDB Database write capacity](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-dynamodb-database-write-capacity.md)
+- [How to resolve Sprinto check for monitoring read capacity of AWS DynamoDB](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-read-capacity-of-aws-dynamodb.md)
+- [How to resolve Sprinto check for monitoring AWS EC2 CPU utilization](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-ec2-cpu-utilization.md)
+- [How to resolve Sprinto check for monitoring AWS ECS CPU utilization](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-ecs-cpu-utilization.md)
+- [How to resolve Sprinto check for monitoring AWS ECS memory utilization](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-ecs-memory-utilization.md)
+- [How to resolve Sprinto check for monitoring AWS EBS health status](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-ebs-health-status.md)
+- [How to resolve Sprinto check for monitoring ElastiCache datastore CPU utilization](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-elasticache-datastore-cpu-utilization.md)
+- [How to resolve Sprinto check for monitoring AWS Elasticsearch cluster CPU utilization](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-elasticsearch-cluster-cpu-utilization.md)
+- [How to resolve Sprinto check for monitoring AWS Elasticsearch cluster freespace](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-elasticsearch-cluster-freespace.md)
+- [How to resolve Sprinto check for monitoring AWS Redshift CPU utilization](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-redshift-cpu-utilization.md)
+- [How to resolve Sprinto check for monitoring AWS Redshift health](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-redshift-health.md)
+- [How to resolve Sprinto check for monitoring AWS SQS messages age](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-sqs-messages-age.md)
+- [How to resolve Sprinto check for monitoring AWS Load Balancer healthy host count](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-load-balancer-healthy-host-count.md)
+- [How to resolve Sprinto check for monitoring AWS Application Load Balancer (ALB) or Classic Load Balancer (CLB) latency](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-application-load-balancer-alb-or-classic-load-balanc.md)
+- [How to resolve Sprinto check for monitoring AWS Load Balancer (ALB) or Classic Load Balancer (CLB) errors](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-load-balancer-alb-or-classic-load-balancer-clb-error.md)
+- [How to resolve Sprinto check for monitoring AWS Firehose throttling](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-aws-firehose-throttling.md)
+- [How to resolve Sprinto check for blocking public access on AWS S3 buckets](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-blocking-public-access-on-aws-s3-buckets.md)
+- [How to backup and restore Amazon RDS SQL ServerHere are ways to perform a backup and restore](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-backup-and-restore-amazon-rds-sql-serverhere-are-ways-to-perform-a-backup-and-restore.md)
+- [How to resolve Sprinto check for AWS EFS storage backup enabling](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-aws-efs-storage-backup-enabling.md)
+- [How to resolve Sprinto check for enabling AWS GuardDuty](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-enabling-aws-guardduty.md)
+- [How to resolve Sprinto check for enabling EBS volume backup](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-enabling-ebs-volume-backup.md)
+- [How to resolve Sprinto check for enabling versioning on AWS S3 buckets](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-enabling-versioning-on-aws-s3-buckets.md)
+- [How to resolve Sprinto check for monitoring API gateway error](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-api-gateway-error.md)
+- [How to resolve Sprinto check for monitoring freespace on AWS FSX file system](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-freespace-on-aws-fsx-file-system.md)
+- [How to resolve Sprinto check for monitoring Lightsail instance CPU utilization](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-monitoring-lightsail-instance-cpu-utilization.md)
+- [How to resolve Sprinto check for validating AWS load balancers' configuration](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-for-validating-aws-load-balancers-configuration.md)
+- [How to resolve Sprinto check to redirect traffic from http to https on AWS Application Load Balancer (ALB)](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/how-to-resolve-sprinto-check-to-redirect-traffic-from-http-to-https-on-aws-application-load-balancer.md)
+- [NAT Gateway should be setup for the VPC](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/aws/nat-gateway-should-be-setup-for-the-vpc.md)
+- [Azure](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure.md): Monitor critical Azure infrastructure with Sprinto by tracking SQL database encryption, storage security, NSG flow logs, CPU usage, and TLS settings across web apps.
+- [How to resolve Sprinto check for monitoring Azure VM CPU](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-for-monitoring-azure-vm-cpu.md)
+- [How to resolve Sprinto check for monitoring Azure SQL DB IO](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-for-monitoring-azure-sql-db-io.md)
+- [How to resolve Sprinto check for monitoring Azure SQL DB Memory Utilization](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-for-monitoring-azure-sql-db-memory-utilization.md)
+- [How to resolve Azure SQL DB CPU Utilization should be monitored](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-azure-sql-db-cpu-utilization-should-be-monitored.md)
+- [How to resolve Sprinto check for monitoring Azure AKS node CPU utilization](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-for-monitoring-azure-aks-node-cpu-utilization.md)
+- [How to resolve Sprinto check for monitoring Azure AKS node memory working set usage](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-for-monitoring-azure-aks-node-memory-working-set-usage.md)
+- [How to resolve Sprinto check for monitoring Azure Cache for Redis Current Connections](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-for-monitoring-azure-cache-for-redis-current-connections.md)
+- [How to resolve Sprinto check for monitoring AZURE CACHE for REDIS CPU utilization](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-for-monitoring-azure-cache-for-redis-cpu-utilization.md)
+- [How to resolve Sprinto check for monitoring Azure Cache for Redis Freeable Memory](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-for-monitoring-azure-cache-for-redis-freeable-memory.md)
+- [How to resolve Sprinto check for monitoring Azure Load Balancer health probe status](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-for-monitoring-azure-load-balancer-health-probe-status.md)
+- [How to resolve Sprinto check for monitoring Azure Application Gateway Healthy Host](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-for-monitoring-azure-application-gateway-healthy-host.md)
+- [How to resolve Sprinto check monitoring Azure Cosmos DB Latency](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-monitoring-azure-cosmos-db-latency.md)
+- [How to resolve Sprinto check monitoring Azure Front Door Origin Health status](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-monitoring-azure-front-door-origin-health-status.md)
+- [How to resolve Sprinto check for protecting Azure Cosmos DB Public Access](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-for-protecting-azure-cosmos-db-public-access.md)
+- [How to resolve Sprinto check for protecting Azure SQL Database from public access](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-for-protecting-azure-sql-database-from-public-access.md)
+- [How to resolve Sprinto check for restricting public access on Azure storage accounts](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-for-restricting-public-access-on-azure-storage-accounts.md)
+- [How to resolve Sprinto check to ensure key vaults are recoverable](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-to-ensure-key-vaults-are-recoverable.md)
+- [How to resolve Sprinto check to ensure that minimum TLS version is set to Version 1.2 on Azure cloud storage account](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-to-ensure-that-minimum-tls-version-is-set-to-version-1.2-on-azure-cloud.md)
+- [How to resolve Sprinto check to redirect all HTTP traffic to HTTP for Azure Web Apps](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-to-redirect-all-http-traffic-to-http-for-azure-web-apps.md)
+- [How to resolve Sprinto check to disable the cross tenant replication on Azure Cloud storage account](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/azure/how-to-resolve-sprinto-check-to-disable-the-cross-tenant-replication-on-azure-cloud-storage-account.md)
+- [GCP](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/gcp.md): Monitor GCP infrastructure like CloudSQL, Compute Engine, and VPC using Stackdriver to meet compliance checks in Sprinto.
+- [How to resolve Sprinto check for monitoring GCP CloudSQL CPU Utilization](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/gcp/how-to-resolve-sprinto-check-for-monitoring-gcp-cloudsql-cpu-utilization.md)
+- [How to resolve Sprinto check for monitoring GCP SQL memory utilization](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/gcp/how-to-resolve-sprinto-check-for-monitoring-gcp-sql-memory-utilization.md)
+- [How to resolve Sprinto check for monitoring GCP CPU utilization](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/gcp/how-to-resolve-sprinto-check-for-monitoring-gcp-cpu-utilization.md)
+- [How to resolve Sprinto check for monitoring GCP Firestore read frequency](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/gcp/how-to-resolve-sprinto-check-for-monitoring-gcp-firestore-read-frequency.md)
+- [How to resolve Sprinto check for monitoring GCP Firestore write frequency](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/gcp/how-to-resolve-sprinto-check-for-monitoring-gcp-firestore-write-frequency.md)
+- [How to resolve Sprinto check for monitoring GCP VM usage](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/gcp/how-to-resolve-sprinto-check-for-monitoring-gcp-vm-usage.md)
+- [GKE Metadata Enabled Check](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/gcp/gke-metadata-enabled-check.md)
+- [How to resolve Sprinto check for protecting GCP Cloud SQL from direct internet traffic](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/gcp/how-to-resolve-sprinto-check-for-protecting-gcp-cloud-sql-from-direct-internet-traffic.md)
+- [How to resolve GCP Cloud SQL memory utilization should be monitored](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/gcp/how-to-resolve-gcp-cloud-sql-memory-utilization-should-be-monitored.md)
+- [How to resolve Sprinto check for protecting GCP Compute Instance from direct internet traffic](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/gcp/how-to-resolve-sprinto-check-for-protecting-gcp-compute-instance-from-direct-internet-traffic.md)
+- [How to resolve Sprinto check for restricting public access from GCP cloud storage buckets](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/gcp/how-to-resolve-sprinto-check-for-restricting-public-access-from-gcp-cloud-storage-buckets.md)
+- [How to resolve Sprinto check to configure GCP sinks for log entries](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/gcp/how-to-resolve-sprinto-check-to-configure-gcp-sinks-for-log-entries.md)
+- [How to resolve Sprinto check to redirect traffic from http to https for Google Cloud Platform (GCP)](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/gcp/how-to-resolve-sprinto-check-to-redirect-traffic-from-http-to-https-for-google-cloud-platform-gcp.md)
+- [How to resolve Sprinto check to restrict anonymous or public access to GCP BigQuery Datasets](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/gcp/how-to-resolve-sprinto-check-to-restrict-anonymous-or-public-access-to-gcp-bigquery-datasets.md)
+- [Oracle](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/oracle.md)
+- [How to resolve Sprinto check for monitoring Oracle Cloud Compute Instance CPU Utilization](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/oracle/how-to-resolve-sprinto-check-for-monitoring-oracle-cloud-compute-instance-cpu-utilization.md)
+- [How to resolve Sprinto check for monitoring Oracle Cloud ATP database CPU Utilization](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/oracle/how-to-resolve-sprinto-check-for-monitoring-oracle-cloud-atp-database-cpu-utilization.md)
+- [How to resolve Sprinto check for monitoring Oracle Cloud ATP database Free Space](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/oracle/how-to-resolve-sprinto-check-for-monitoring-oracle-cloud-atp-database-free-space.md)
+- [How to resolve Sprinto check for monitoring active connection count on Oracle Cloud Load Balancer](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/oracle/how-to-resolve-sprinto-check-for-monitoring-active-connection-count-on-oracle-cloud-load-balancer.md)
+- [How to resolve Sprinto check for Oracle Cloud ATP Database Backup enabling](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/oracle/how-to-resolve-sprinto-check-for-oracle-cloud-atp-database-backup-enabling.md)
+- [How to resolve Sprinto check to protect Oracle Cloud Instance from direct internet access](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/oracle/how-to-resolve-sprinto-check-to-protect-oracle-cloud-instance-from-direct-internet-access.md)
+- [Other Cloud Platforms Monitors](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/other-cloud-platforms-monitors.md): Learn how Sprinto tracks infrastructure health and availability for cloud providers beyond AWS, Azure, and GCP.
+- [How to resolve Sprinto check for monitoring DigitalOcean Droplet CPU utilization](https://docs.sprinto.com/monitors/cloud-and-infrastructure-monitoring/other-cloud-platforms-monitors/how-to-resolve-sprinto-check-for-monitoring-digitalocean-droplet-cpu-utilization.md)
+- [Encryption & Backup Monitoring](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring.md): Ensure data encryption and backup settings are compliant with Sprinto by monitoring encryption at rest, PITR, and recovery policies across AWS, Azure, and GCP.
+- [Encryption of a DynamoDB table](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/encryption-of-a-dynamodb-table.md)
+- [Encrypting RDS DB Instances](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/encrypting-rds-db-instances.md)
+- [How to resolve Sprinto check for enabling data encryption on Azure SQL Database](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-resolve-sprinto-check-for-enabling-data-encryption-on-azure-sql-database.md)
+- [How to resolve Sprinto check for encrypting Azure SQL database](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-resolve-sprinto-check-for-encrypting-azure-sql-database.md)
+- [Extended Checks for Disk Encryption, Antivirus, and Screen Lock](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/extended-checks-for-disk-encryption-antivirus-and-screen-lock.md)
+- [How to Encrypt AWS Elastic Container Registry](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-encrypt-aws-elastic-container-registry.md)
+- [How to resolve Sprinto check for Azure Web Apps to use the latest TLS encryption version](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-resolve-sprinto-check-for-azure-web-apps-to-use-the-latest-tls-encryption-version.md)
+- [How to resolve Sprinto check for configuring default network access rule to deny on the Azure storage accounts](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-resolve-sprinto-check-for-configuring-default-network-access-rule-to-deny-on-the-azure-storag.md): Configure Azure Storage Account network rules to deny public access by default and resolve the Sprinto security check for storage account network access.
+- [How to resolve Sprinto check for enabling “Secure transfer required” on Azure](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-resolve-sprinto-check-for-enabling-secure-transfer-required-on-azure.md)
+- [How to resolve Sprinto check for encrypting DynamoDB](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-resolve-sprinto-check-for-encrypting-dynamodb.md)
+- [How to resolve Sprinto check for encrypting cloud storage services](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-resolve-sprinto-check-for-encrypting-cloud-storage-services.md)
+- [How to resolve Sprinto check for encrypting EBS Volumes attached to EC2 Instances](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-resolve-sprinto-check-for-encrypting-ebs-volumes-attached-to-ec2-instances.md)
+- [How to resolve Sprinto check to configure expiration date on keys from Non RBAC key vault](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-resolve-sprinto-check-to-configure-expiration-date-on-keys-from-non-rbac-key-vault.md)
+- [How to monitor Free Memory Space of Databases](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-monitor-free-memory-space-of-databases.md)
+- [How to resolve Sprinto check to disable blob anonymous access on the Azure Cloud Storage account](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-resolve-sprinto-check-to-disable-blob-anonymous-access-on-the-azure-cloud-storage-account.md)
+- [How to resolve Sprinto check to enable "Infrastructure double encryption" on PostgreSQL Database server](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-resolve-sprinto-check-to-enable-infrastructure-double-encryption-on-postgresql-database-serve.md)
+- [How to resolve Sprinto check to enable the SSL connection enforcement on Azure PostgreSQL Database server](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-resolve-sprinto-check-to-enable-the-ssl-connection-enforcement-on-azure-postgresql-database-s.md)
+- [How to resolve Sprinto check to enable SSL connection enforcement for standard MySQL Database server](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-resolve-sprinto-check-to-enable-ssl-connection-enforcement-for-standard-mysql-database-server.md)
+- [How to resolve Sprinto check to ensure GCP KMS crypto keys are not anonymously or publicly accessible](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-resolve-sprinto-check-to-ensure-gcp-kms-crypto-keys-are-not-anonymously-or-publicly-accessibl.md)
+- [How to resolve Sprinto check to set the rotation period to be less than 90 days for GCP KMS encryption keys](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-resolve-sprinto-check-to-set-the-rotation-period-to-be-less-than-90-days-for-gcp-kms-encrypti.md)
+- [How to resolve Sprnito check for enabling uniform bucket level access on GCP Cloud Storage Buckets](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-resolve-sprnito-check-for-enabling-uniform-bucket-level-access-on-gcp-cloud-storage-buckets.md)
+- [How to resolve Sprinto check to set expiration date for keys from RBAC key vault](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-resolve-sprinto-check-to-set-expiration-date-for-keys-from-rbac-key-vault.md)
+- [How To Restore Data From Database Backup](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/how-to-restore-data-from-database-backup.md)
+- [Resolve Sprinto Check To Ensure GCP Cloud SQL Connections Uses SSL](https://docs.sprinto.com/monitors/encryption-and-backup-monitoring/resolve-sprinto-check-to-ensure-gcp-cloud-sql-connections-uses-ssl.md)
+- [Audit Logs & Evidence Trails](https://docs.sprinto.com/monitors/audit-logs-and-evidence-trails.md): Ensure audit logs and compliance evidence are securely collected, validated, and retained across AWS, Azure, GCP, and Sprinto to meet audit readiness and monitoring requirements.
+- [How to resolve Sprinto check for enabling AWS CloudTrail](https://docs.sprinto.com/monitors/audit-logs-and-evidence-trails/how-to-resolve-sprinto-check-for-enabling-aws-cloudtrail.md)
+- [How to resolve Sprinto check for enabling log file integrity validation on AWS CloudTrail](https://docs.sprinto.com/monitors/audit-logs-and-evidence-trails/how-to-resolve-sprinto-check-for-enabling-log-file-integrity-validation-on-aws-cloudtrail.md)
+- [How to resolve Sprinto check for enabling GCP VPC flow log](https://docs.sprinto.com/monitors/audit-logs-and-evidence-trails/how-to-resolve-sprinto-check-for-enabling-gcp-vpc-flow-log.md)
+- [How to resolve Sprinto check for enabling Azure Virtual Network flow logs](https://docs.sprinto.com/monitors/audit-logs-and-evidence-trails/how-to-resolve-sprinto-check-for-enabling-nsg-flow-logs-on-azure.md): Enable Azure Virtual Network flow logs to meet Sprinto monitoring requirements and ensure network traffic is captured for security and compliance visibility.
+- [How to resolve Sprinto check for capturing flow logs on Oracle Cloud Virtual Cloud Network (VCN)](https://docs.sprinto.com/monitors/audit-logs-and-evidence-trails/how-to-resolve-sprinto-check-for-capturing-flow-logs-on-oracle-cloud-virtual-cloud-network-vcn.md)
+- [How to resolve Sprinto check for enabling server access logs on AWS S3](https://docs.sprinto.com/monitors/audit-logs-and-evidence-trails/how-to-resolve-sprinto-check-for-enabling-server-access-logs-on-aws-s3.md)
+- [How to resolve Sprinto check for archiving Azure activity logs](https://docs.sprinto.com/monitors/audit-logs-and-evidence-trails/how-to-resolve-sprinto-check-for-archiving-azure-activity-logs.md)
+- [How to resolve Sprinto check to enable AWS CloudTrail S3 logging bucket access](https://docs.sprinto.com/monitors/audit-logs-and-evidence-trails/how-to-resolve-sprinto-check-to-enable-aws-cloudtrail-s3-logging-bucket-access.md)
+- [How to resolve Sprinto check to ensure that AWS CloudTrail logs is public protected](https://docs.sprinto.com/monitors/audit-logs-and-evidence-trails/how-to-resolve-sprinto-check-to-ensure-that-aws-cloudtrail-logs-is-public-protected.md)
+- [How to resolve Sprinto check to ensure that AWS server logs are retained for at least 90 days](https://docs.sprinto.com/monitors/audit-logs-and-evidence-trails/how-to-resolve-sprinto-check-to-ensure-that-aws-server-logs-are-retained-for-at-least-90-days.md)
+- [Workflow Check Resolution](https://docs.sprinto.com/monitors/workflow-check-resolution.md): Resolve failing workflow checks in Sprinto by reviewing platform status, uploading evidence, or marking exceptions using the Monitoring dashboard.
+- [How to configure and resolve Sprinto workflow check for auto session timeout](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-configure-and-resolve-sprinto-workflow-check-for-auto-session-timeout.md)
+- [How to configure and resolve Sprinto workflow check for Internal Audit](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-configure-and-resolve-sprinto-workflow-check-for-internal-audit.md)
+- [How to Configure and Resolve Sprinto Workflow Check for Internal Audit Reviewed by Management](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-configure-and-resolve-sprinto-workflow-check-for-internal-audit-reviewed-by-management.md)
+- [How to Configure and Resolve Sprinto Workflow Check for Performance Evaluation for Staff](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-configure-and-resolve-sprinto-workflow-check-for-performance-evaluation-for-staff.md)
+- [How to Configure and Resolve Sprinto Workflow Check for System Architecture Diagram](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-configure-and-resolve-sprinto-workflow-check-for-system-architecture-diagram.md)
+- [How to Configure and Resolve Sprinto Workflow Check for Data Backup Restoration](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-configure-and-resolve-sprinto-workflow-check-for-data-backup-restoration.md)
+- [How to configure and resolve Sprinto workflow check for configuring file integrity technologies](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-configure-and-resolve-sprinto-workflow-check-for-configuring-file-integrity-technologies.md)
+- [How to configure and resolve Sprinto workflow check for disaster recovery](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-configure-and-resolve-sprinto-workflow-check-for-disaster-recovery.md)
+- [How to configure and resolve Sprinto workflow check for setting up firewall ruleset](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-configure-and-resolve-sprinto-workflow-check-for-setting-up-firewall-ruleset.md)
+- [How to configure and resolve Sprinto workflow check for setting up stateful inspection for Firewall technology](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-configure-and-resolve-sprinto-workflow-check-for-setting-up-stateful-inspection-for-firewall.md)
+- [How to resolve Sprinto check for configuring change management system](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-resolve-sprinto-check-for-configuring-change-management-system.md)
+- [How to enable and fix workflow checks on encryption key management](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-enable-and-fix-workflow-checks-on-encryption-key-management.md)
+- [How To Resolve Sprinto Check For Access Requests Assignee](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-resolve-sprinto-check-for-access-requests-assignee.md)
+- [How to resolve Sprinto check for configuring staff onboarding set up](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-resolve-sprinto-check-for-configuring-staff-onboarding-set-up.md)
+- [How To Resolve Sprinto Check For Configuring User Login Protection Methods On Critical Access System](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-resolve-sprinto-check-for-configuring-user-login-protection-methods-on-critical-access-system.md)
+- [How to resolve Sprinto check for critical systems access review](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-resolve-sprinto-check-for-critical-systems-access-review.md)
+- [How To Resolve Sprinto Check For Maintaining Users Accounts Data Accessing Critical System](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-resolve-sprinto-check-for-maintaining-users-accounts-data-accessing-critical-system.md)
+- [How to resolve Sprinto check for new employee’s date of joining](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-resolve-sprinto-check-for-new-employees-date-of-joining.md)
+- [How to resolve Sprinto check for user identification](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-resolve-sprinto-check-for-user-identification.md)
+- [How to resolve Sprinto check for configuring password policies on AWS accounts](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-resolve-sprnito-check-for-configuring-password-policies-on-aws-accounts.md)
+- [IP Whitelisting](https://docs.sprinto.com/monitors/workflow-check-resolution/ip-whitelisting.md)
+- [How to resolve Sprinto check Change Requests Must Be Approved Before Implementation](https://docs.sprinto.com/monitors/workflow-check-resolution/how-to-resolve-sprinto-check-change-requests-must-be-approved-before-implementation.md)
+- [User Decisioning](https://docs.sprinto.com/monitors/user-decisioning.md): Use Sprinto’s user decisioning interface to mark users as in-scope or not-in-scope, resolve compliance gaps, and ensure platform-specific controls like MFA are enforced.
+- [Decisioning of GoogleWorkspace / Zoho users](https://docs.sprinto.com/monitors/user-decisioning/decisioning-of-googleworkspace-zoho-users.md)
+- [Decisioning of Office365 users](https://docs.sprinto.com/monitors/user-decisioning/decisioning-of-office365-users.md)
+- [Decisioning of AWS /GCP / Azure / MongoAtlas users](https://docs.sprinto.com/monitors/user-decisioning/decisioning-of-aws-gcp-azure-mongoatlas-users.md)
+- [Decisioning of Github / Gitlab / Bitbucket / AWS Codecommit / AzureDevOps users](https://docs.sprinto.com/monitors/user-decisioning/decisioning-of-github-gitlab-bitbucket-aws-codecommit-azuredevops-users.md)
+- [Assign Roles for Sprinto Workflow Actions](https://docs.sprinto.com/monitors/assign-roles-for-sprinto-workflow-actions.md): Learn how to assign roles in Sprinto to ensure accountability for workflow checks, evidence submission, and compliance actions.
+- [Governance & Compliance Monitors](https://docs.sprinto.com/monitors/governance-and-compliance-monitors.md): Track and resolve governance-related compliance checks in Sprinto, including risk assessments and management workflows.
+- [How to resolve Sprinto check for periodic risk assessment](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/how-to-resolve-sprinto-check-for-periodic-risk-assessment.md)
+- [How to resolve Sprinto check for periodic risk assessment review](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/how-to-resolve-sprinto-check-for-periodic-risk-assessment-review.md)
+- [How to resolve Sprinto check for Org chart periodic review](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/how-to-resolve-sprinto-check-for-org-chart-periodic-review.md)
+- [How to resolve Reported incident should be closed](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/how-to-resolve-reported-incident-should-be-closed.md)
+- [Resolve Sprinto Check For Risk Scoring & Treatment](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/resolve-sprinto-check-for-risk-scoring-and-treatment.md)
+- [How to resolve Vendor risk assessment management review should be done periodically monitor](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/how-to-resolve-vendor-risk-assessment-management-review-should-be-done-periodically-monitor.md)
+- [How to resolve Infra entity should be classified](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/how-to-resolve-infra-entity-should-be-classified.md)
+- [How to resolve Sprinto check for classifying infra entities](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/how-to-resolve-sprinto-check-for-classifying-infra-entities.md)
+- [How to resolve Sprinto check to configure essential contact for organization](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/how-to-resolve-sprinto-check-to-configure-essential-contact-for-organization.md): Learn how to configure Google Cloud Essential Contacts correctly and resolve Sprinto checks by setting required contact categories and permissions.
+- [How to resolve Sprinto checks for roles assignments](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/how-to-resolve-sprinto-checks-for-roles-assignments.md)
+- [Resolve Sprinto Check For Customer Support Page Availability On Company Products](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/resolve-sprinto-check-for-customer-support-page-availability-on-company-products.md)
+- [Resolve Sprinto Check For Product Login Page Availability On Company Products](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/resolve-sprinto-check-for-product-login-page-availability-on-company-products.md)
+- [Resolve Sprinto Check For Product Help Page Availability On Company Products](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/resolve-sprinto-check-for-product-help-page-availability-on-company-products.md)
+- [Resolve Sprinto Check For Product Marketing Page Availability On Company Products](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/resolve-sprinto-check-for-product-marketing-page-availability-on-company-products.md)
+- [Resolve Sprinto Check For Product Privacy Page Availability On Company Products](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/resolve-sprinto-check-for-product-privacy-page-availability-on-company-products.md)
+- [Resolve Sprinto Check For Product Status Page Availability On Company Products](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/resolve-sprinto-check-for-product-status-page-availability-on-company-products.md)
+- [Resolve Sprinto Check For Product Terms of Service (ToS) Page Availability On Company Products](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/resolve-sprinto-check-for-product-terms-of-service-tos-page-availability-on-company-products.md)
+- [Resolve Sprinto Check For Product Updates Page Availability On Company Products](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/resolve-sprinto-check-for-product-updates-page-availability-on-company-products.md)
+- [Resolve Sprinto Check To Ensure Product Application Is On HTTPS Protocol](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/resolve-sprinto-check-to-ensure-product-application-is-on-https-protocol.md)
+- [Resolve Sprinto Check To Ensure Product Application Redirects HTTP to HTTPS Protocol](https://docs.sprinto.com/monitors/governance-and-compliance-monitors/resolve-sprinto-check-to-ensure-product-application-redirects-http-to-https-protocol.md)
+- [Code and Repository Monitors](https://docs.sprinto.com/monitors/code-and-repository-monitors.md)
+- [How to resolve Sprinto check for classifying code repositories](https://docs.sprinto.com/monitors/code-and-repository-monitors/how-to-resolve-sprinto-check-for-classifying-code-repositories.md)
+- [How to resolve Sprinto check for enabling branch protection rules](https://docs.sprinto.com/monitors/code-and-repository-monitors/how-to-resolve-sprinto-check-for-enabling-branch-protection-rules.md): Learn how to configure branch protection rules across GitHub, GitLab, Bitbucket, Azure DevOps, and AWS CodeCommit to resolve Sprinto repository protection checks.
+- [How to resolve Sprinto check for enabling Dependabot vulnerability scan](https://docs.sprinto.com/monitors/code-and-repository-monitors/how-to-resolve-sprinto-check-for-enabling-dependabot-vulnerability-scan.md)
+- [PR Reviewer is different from Author](https://docs.sprinto.com/monitors/code-and-repository-monitors/pr-reviewer-is-different-from-author.md)
+- [Vulnerability & Security Monitors](https://docs.sprinto.com/monitors/vulnerability-and-security-monitors.md)
+- [How to resolve Sprinto check for resolving vulnerability within the SLA](https://docs.sprinto.com/monitors/vulnerability-and-security-monitors/how-to-resolve-sprinto-check-for-resolving-vulnerability-within-the-sla.md): Configure and manage SLA timelines for vulnerability checks in Sprinto to control escalation, remediation deadlines, and compliance outcomes.
+- [How to resolve Sprinto check for uploading the VAPT report](https://docs.sprinto.com/monitors/vulnerability-and-security-monitors/how-to-resolve-sprinto-check-for-uploading-the-vapt-report.md)
+- [How to resolve VAPT vulnerability should be resolved monitor](https://docs.sprinto.com/monitors/vulnerability-and-security-monitors/how-to-resolve-vapt-vulnerability-should-be-resolved-monitor.md)
+- [Extended Checks in MDM Tool Comms](https://docs.sprinto.com/monitors/extended-checks-in-mdm-tool-comms.md): Learn how Sprinto’s extended MDM integrations enable automatic monitoring of screen lock, antivirus, and encryption compliance across popular device management tools.
+- [JAMF – Extended Checks for Screen Lock](https://docs.sprinto.com/monitors/extended-checks-in-mdm-tool-comms/jamf-extended-checks-for-screen-lock.md): Learn how to configure JAMF to enable Sprinto to automatically monitor screen lock status on staff devices.
+- [Endpoint Central – Extended Checks for Screen Lock and Antivirus](https://docs.sprinto.com/monitors/extended-checks-in-mdm-tool-comms/endpoint-central-extended-checks-for-screen-lock-and-antivirus.md): Learn how to configure Endpoint Central to enable Sprinto to automatically monitor screen lock and antivirus compliance checks across staff devices.
+- [Iru (Kandji) – Extended Checks for Screen Lock and Antivirus](https://docs.sprinto.com/monitors/extended-checks-in-mdm-tool-comms/iru-kandji-extended-checks-for-screen-lock-and-antivirus.md): Learn how to configure Kandji to enable Sprinto to automatically monitor screen lock and antivirus compliance checks on staff devices.
+- [Microsoft Intune – Extended Checks for Screen Lock and Antivirus](https://docs.sprinto.com/monitors/extended-checks-in-mdm-tool-comms/microsoft-intune-extended-checks-for-screen-lock-and-antivirus.md): Learn how to configure Microsoft Intune to enable Sprinto to automatically monitor screen lock and antivirus compliance checks on Windows and macOS devices.
+- [Hexnode – Extended Checks for Disk Encryption, Antivirus, and Screen Lock](https://docs.sprinto.com/monitors/extended-checks-in-mdm-tool-comms/hexnode-extended-checks-for-disk-encryption-antivirus-and-screen-lock.md): Learn how to configure Hexnode to enable Sprinto to automatically monitor disk encryption, screen lock, and antivirus compliance checks across staff devices.
+- [JumpCloud – Extended Device Checks](https://docs.sprinto.com/monitors/extended-checks-in-mdm-tool-comms/jumpcloud-extended-device-checks.md): Learn how to configure JumpCloud to enable Sprinto to automatically monitor screen lock and antivirus compliance checks across managed staff devices.
+- [Dr. Sprinto & Manual Inputs](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs.md): Use Dr. Sprinto to automatically monitor endpoint controls like screen-lock and OS patching, or submit manual inputs to resolve device checks in Sprinto.
+- [Dr. Sprinto Endpoint Monitoring – Supported Operating Systems](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/dr.-sprinto-endpoint-monitoring-supported-operating-systems.md): View the complete list of operating systems and versions supported by Dr. Sprinto for endpoint and device compliance monitoring.
+- [How do you copy the debug report for Dr. Sprinto](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/how-do-you-copy-the-debug-report-for-dr.-sprinto.md)
+- [How to fix Windows Powershell issue for Dr. Sprinto](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/how-to-fix-windows-powershell-issue-for-dr.-sprinto.md)
+- [How to resolve Dr. Sprinto's auto screen lock issue for Windows devices](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/how-to-resolve-dr.-sprintos-auto-screen-lock-issue-for-windows-devices.md)
+- [How to resolve DrSprinto configuration issue on Windows registry](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/how-to-resolve-drsprinto-configuration-issue-on-windows-registry.md)
+- [How to troubleshoot Dr. Sprinto installation on Apple devices running Apple Silicone (M1 M2 chips)](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/how-to-troubleshoot-dr.-sprinto-installation-on-apple-devices-running-apple-silicone-m1-m2-chips.md)
+- [How to troubleshoot Dr. Sprinto app on Windows devices](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/how-to-troubleshoot-dr.-sprinto-app-on-windows-devices.md)
+- [Dr.Sprinto Data privacy questionnaires](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/dr.sprinto-data-privacy-questionnaires.md)
+- [How to Report Device Health Status Manually from Sprinto Employee Portal](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/how-to-report-device-health-status-manually-from-sprinto-employee-portal.md)
+- [How to resolve Sprinto check for keeping device operating system upto date](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/how-to-resolve-sprinto-check-for-keeping-device-operating-system-upto-date.md)
+- [How to resolve Sprinto check for reporting staff device health status](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/how-to-resolve-sprinto-check-for-reporting-staff-device-health-status.md)
+- [How to resolve Sprinto check for running antivirus on staff device](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/how-to-resolve-sprinto-check-for-running-antivirus-on-staff-device.md)
+- [How to resolve Sprinto check to enable auto screen lock](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/how-to-resolve-sprinto-check-to-enable-auto-screen-lock.md)
+- [How to resolve Sprinto check to enable encryption on staff device](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/how-to-resolve-sprinto-check-to-enable-encryption-on-staff-device.md)
+- [How to troubleshoot Dr.Sprinto installation issue for Windows OS](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/how-to-troubleshoot-dr.sprinto-installation-issue-for-windows-os.md)
+- [Extended Device Checks](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/extended-device-checks.md)
+- [ManageEngine - Extended Checks for Screen Lock and Antivirus](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/extended-checks-for-screen-lock-and-antivirus.md)
+- [Extended Checks for Screen Lock and Antivirus - Iru (Kandji) & Microsoft Intune](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/extended-checks-for-screen-lock-and-antivirus-1.md)
+- [What is manual device health status reporting](https://docs.sprinto.com/monitors/dr.-sprinto-and-manual-inputs/what-is-manual-device-health-status-reporting.md)
+- [Frequently Asked Questions](https://docs.sprinto.com/monitors/frequently-asked-questions.md): Find answers to frequently asked questions about Sprinto’s monitoring system, including workflow checks, decisioning, Dr. Sprinto, evidence uploads, and compliance statuses.
+- [Glossary](https://docs.sprinto.com/monitors/glossary.md): Understand common compliance terms and Sprinto-specific concepts used in the Monitors section with this complete glossary.
+- [Understand Sprinto permissions and resource access](https://docs.sprinto.com/data-library/understand-sprinto-permissions-and-resource-access.md): Learn how Sprinto uses read-only permissions from your integrated services to run compliance checks securely and transparently.
+- [People](https://docs.sprinto.com/data-library/people.md): Get a complete overview of Sprinto's People section to manage staff, roles, scoping, onboarding, and compliance tasks efficiently.
+- [How it Works](https://docs.sprinto.com/data-library/people/how-it-works.md): Learn how Sprinto’s People section integrates with your HR and identity systems to automate compliance workflows and staff management.
+- [Dashboard Actions](https://docs.sprinto.com/data-library/people/dashboard-actions.md): Learn how to create, manage, assign, sync, filter, and upload staff-related information in the People section of Sprinto.
+- [Create Staff and Organisational Data](https://docs.sprinto.com/data-library/people/dashboard-actions/create-staff-and-organisational-data.md): Learn how to create staff records, import groups, add custom fields, and set up org charts and background verification systems in Sprinto.
+- [Manage Security Roles](https://docs.sprinto.com/data-library/people/dashboard-actions/manage-security-roles.md): Learn how to assign, create, edit, or delete security roles for key compliance responsibilities in Sprinto.
+- [Assign Policies, Trainings, and Onboarding Actions](https://docs.sprinto.com/data-library/people/dashboard-actions/assign-policies-trainings-and-onboarding-actions.md): Learn how to assign security policies, training modules, and onboarding tasks to staff and groups in Sprinto.
+- [Manage Staff and Organisational Configuration](https://docs.sprinto.com/data-library/people/dashboard-actions/manage-staff-and-organisational-configuration.md): Learn how to manage staff scope, org charts, onboarding workflows, BGV systems, and custom fields in Sprinto's People section.
+- [Update Reporting Manager and Role for a Staff Member](https://docs.sprinto.com/data-library/people/dashboard-actions/update-reporting-manager-and-role-for-a-staff-member.md): Update the reporting manager and role of a staff member in Sprinto to maintain accurate organisational structure and role-based compliance responsibilities.
+- [Sync Staff, Groups, and Compliance Systems](https://docs.sprinto.com/data-library/people/dashboard-actions/sync-staff-groups-and-compliance-systems.md): Learn how to sync staff details, employee groups, and verification systems from your connected HR and identity providers in Sprinto.
+- [Automate Staff Scoping](https://docs.sprinto.com/data-library/people/dashboard-actions/automate-staff-scoping.md): Learn how to automate staff scoping in Sprinto by creating or importing staff groups, configuring smart scoping, and managing in-scope employees for your security programme.
+- [Upload Org Charts and Background Verification Reports](https://docs.sprinto.com/data-library/people/dashboard-actions/upload-org-charts-and-background-verification-reports.md): Learn how to upload organisational charts and background verification reports manually in Sprinto when integrations are not available.
+- [Filter and View Staff, Groups, and Compliance Data](https://docs.sprinto.com/data-library/people/dashboard-actions/filter-and-view-staff-groups-and-compliance-data.md): Learn how to filter and view staff members, imported groups, scopes, and role configurations in Sprinto’s People section.
+- [Frequently Asked Questions (FAQs)](https://docs.sprinto.com/data-library/people/frequently-asked-questions-faqs.md): Find answers to common questions about managing staff, roles, onboarding, and scoping in Sprinto’s People section.
+- [Glossary](https://docs.sprinto.com/data-library/people/glossary.md): Understand key terms and concepts used in Sprinto’s People section to manage staff, roles, and onboarding activities.
+- [Trainings](https://docs.sprinto.com/data-library/trainings.md): Launch, monitor, and manage InfoSec training campaigns in Sprinto with built-in or external providers to stay audit-ready and compliant.
+- [How it Works](https://docs.sprinto.com/data-library/trainings/how-it-works.md): Learn how to set up providers, launch campaigns, track staff progress, and manage InfoSec training in Sprinto.
+- [Dashboard Actions](https://docs.sprinto.com/data-library/trainings/dashboard-actions.md): Perform all training-related actions in Sprinto — from setting up providers and launching campaigns to tracking progress and monitoring compliance.
+- [Set Up and Manage Security Training Providers](https://docs.sprinto.com/data-library/trainings/dashboard-actions/set-up-and-manage-security-training-providers.md): Set up and manage security training providers in Sprinto by enabling Sprinto’s built-in modules or integrating KnowBe4 and Curricula.
+- [Connect Workday (LMS) as a Training Provider](https://docs.sprinto.com/data-library/trainings/dashboard-actions/set-up-and-manage-security-training-providers/connect-workday-lms-as-a-training-provider.md): Connect Workday LMS to Sprinto to automatically sync training data and track employee learning compliance.
+- [Create and Manage Training Campaigns](https://docs.sprinto.com/data-library/trainings/dashboard-actions/create-and-manage-training-campaigns.md): Create, launch, edit, and recall InfoSec training campaigns in Sprinto to ensure organisation-wide security awareness and compliance.
+- [Track Training Status and Progress](https://docs.sprinto.com/data-library/trainings/dashboard-actions/track-training-status-and-progress.md): Track training campaign completion and staff-level progress across all InfoSec programmes in Sprinto.
+- [Complete Pending Security Training](https://docs.sprinto.com/data-library/trainings/dashboard-actions/complete-pending-security-training.md): Learn how to access, complete, and submit security training tasks assigned in the Sprinto Employee Portal.
+- [Monitor Training Compliance Checks](https://docs.sprinto.com/data-library/trainings/dashboard-actions/monitor-training-compliance-checks.md): Use Sprinto’s workflow checks to monitor security training compliance across providers, campaigns, and staff acknowledgements.
+- [Set Up and Use KnowBe4 Training Integration](https://docs.sprinto.com/data-library/trainings/dashboard-actions/set-up-and-use-knowbe4-training-integration.md)
+- [Frequently Asked Questions](https://docs.sprinto.com/data-library/trainings/frequently-asked-questions.md): Manage, assign, and track InfoSec training in Sprinto with built-in modules, campaign automation, and compliance-ready monitoring.
+- [Glossary](https://docs.sprinto.com/data-library/trainings/glossary.md): Certainly. Here's the SEO one-liner for the \*\*Glossary – Trainings\*\* page:  \*\*SEO Description:\*\* Understand key terms related to security training, campaigns, providers, and monitoring in Sprinto with
+- [Staff Devices](https://docs.sprinto.com/data-library/staff-devices.md): Monitor and manage staff device compliance with automated MDM integrations, manual workflows, and centralised security checks in Sprinto.
+- [How Sprinto helps in getting Staff Devices Compliant Ready](https://docs.sprinto.com/data-library/staff-devices/how-sprinto-helps-in-getting-staff-devices-compliant-ready.md)
+- [How it Works](https://docs.sprinto.com/data-library/staff-devices/how-it-works.md): Learn how Sprinto’s staff device monitoring works using MDM integrations, manual workflows, and automated checks to keep your organisation compliant.
+- [Dashboard Actions](https://docs.sprinto.com/data-library/staff-devices/dashboard-actions.md): Take action on staff device monitoring in Sprinto—set up MDMs, manage checks, collect evidence, and track compliance with clear dashboard tools.
+- [Set Up Device Health Reporting via MDM](https://docs.sprinto.com/data-library/staff-devices/dashboard-actions/set-up-device-health-reporting-via-mdm.md): Set up Dr. Sprinto or integrate third-party MDM tools with Sprinto to automate device health reporting and stay compliant.
+- [Encrypt Storage on Windows Devices](https://docs.sprinto.com/data-library/staff-devices/dashboard-actions/encrypt-storage-on-windows-devices.md)
+- [Staff Device Ownership](https://docs.sprinto.com/data-library/staff-devices/dashboard-actions/staff-device-ownership.md)
+- [Create and Manage Manual Workflow Checks](https://docs.sprinto.com/data-library/staff-devices/dashboard-actions/create-and-manage-manual-workflow-checks.md): Configure manual workflow checks in Sprinto to collect device compliance evidence when MDM tools are not used.
+- [Report Device Status via Employee Portal](https://docs.sprinto.com/data-library/staff-devices/dashboard-actions/report-device-status-via-employee-portal.md): Manually upload device health status from the Sprinto Employee Portal when automatic scanning fails or is unsupported.
+- [Install Dr. Sprinto App & Report Device Health Status](https://docs.sprinto.com/data-library/staff-devices/dashboard-actions/install-dr.-sprinto-app-and-report-device-health-status.md)
+- [Review Device Status and Check History (Dr. Sprinto)](https://docs.sprinto.com/data-library/staff-devices/dashboard-actions/review-device-status-and-check-history-dr.-sprinto.md): Track staff device status and review compliance check history using Dr. Sprinto’s integrated reporting dashboard in Sprinto.
+- [Scope Devices as Active, Inactive, or Not-in-Scope](https://docs.sprinto.com/data-library/staff-devices/dashboard-actions/scope-devices-as-active-inactive-or-not-in-scope.md): Manage device scope in Sprinto by marking staff devices as Active, Inactive, or Not-in-Scope to ensure accurate compliance tracking.
+- [Monitor Device Compliance Checks](https://docs.sprinto.com/data-library/staff-devices/dashboard-actions/monitor-device-compliance-checks.md): Track and manage device compliance status across Dr. Sprinto, MDMs, and manual workflows using the Monitoring tab in Sprinto.
+- [Frequently Asked Questions](https://docs.sprinto.com/data-library/staff-devices/frequently-asked-questions.md): Find answers to frequently asked questions about staff device monitoring, evidence reporting, MDM setup, and compliance checks in Sprinto.
+- [Glossary](https://docs.sprinto.com/data-library/staff-devices/glossary.md): Understand key terms related to device health monitoring, scoping, and compliance checks in Sprinto’s Staff Devices section.
+- [System Access](https://docs.sprinto.com/data-library/access.md): Monitor and manage user access to critical systems in Sprinto to prevent unauthorised access and ensure compliance.
+- [How it Works](https://docs.sprinto.com/data-library/access/how-it-works.md): Understand how Sprinto manages and monitors access to critical systems across your organisation.
+- [Dashboard Actions](https://docs.sprinto.com/data-library/access/dashboard-actions.md): Explore key access management actions in Sprinto, including system setup, user mapping, access monitoring, and offboarding workflows.
+- [Create and Manage Access Registers](https://docs.sprinto.com/data-library/access/dashboard-actions/create-and-manage-access-registers.md): Create, organise, and manage access registers to group critical systems for streamlined access reviews and compliance monitoring.
+- [Add and Manage Critical Systems](https://docs.sprinto.com/data-library/access/dashboard-actions/add-and-manage-critical-systems.md): Learn how to add, connect, and manage your organisation’s critical systems in Sprinto for effective access tracking.
+- [Identify and map users in a critical system](https://docs.sprinto.com/data-library/access/dashboard-actions/identify-and-map-users-in-a-critical-system.md): Identify and map users in critical systems by linking accounts to staff records, classifying non-staff accounts, and managing unidentified users.
+- [Configure Access Rules for Ticketing Systems (MCAS)](https://docs.sprinto.com/data-library/access/dashboard-actions/configure-access-rules-for-ticketing-systems-mcas.md)
+- [Configure User Access rules for Critical System (MCAS)](https://docs.sprinto.com/data-library/access/dashboard-actions/configure-user-access-rules-for-critical-system-mcas.md)
+- [Manage Ticketing Systems](https://docs.sprinto.com/data-library/access/dashboard-actions/manage-ticketing-systems.md): Configure and manage your organisation’s ticketing system in Sprinto to track access-related tasks and violations.
+- [View and Map Staff Access](https://docs.sprinto.com/data-library/access/dashboard-actions/view-and-map-staff-access.md): Track and validate each staff member’s system access and resolve mapping issues across connected systems in Sprinto.
+- [Perform Access Review for a Critical System](https://docs.sprinto.com/data-library/access/dashboard-actions/perform-access-review-for-a-critical-system.md)
+- [Monitor Access Checks](https://docs.sprinto.com/data-library/access/dashboard-actions/monitor-access-checks.md): Track and manage automated access checks across all critical systems in Sprinto to maintain access hygiene and compliance.
+- [Review Offboarded Staff Access](https://docs.sprinto.com/data-library/access/dashboard-actions/review-offboarded-staff-access.md): Track and validate access revocation for offboarded staff in Sprinto to ensure deprovisioning is complete across critical systems.
+- [Mark Access Tasks as Completed](https://docs.sprinto.com/data-library/access/dashboard-actions/mark-access-tasks-as-completed.md): Learn how to mark Sprinto access tasks as completed after performing a user access review.
+- [Frequently Asked Questions](https://docs.sprinto.com/data-library/access/frequently-asked-questions.md): Find answers to frequently asked questions about managing system and staff access in Sprinto.
+- [Glossary](https://docs.sprinto.com/data-library/access/glossary.md)
+- [Vendors](https://docs.sprinto.com/data-library/vendors.md): Understand how Sprinto’s Vendors module helps streamline third-party risk management with automated assessments, due diligence, breach alerts, and security questionnaires.
+- [How it Works](https://docs.sprinto.com/data-library/vendors/how-it-works.md): Understand how Sprinto’s Vendors section helps manage third-party risk through discovery, scoring, due diligence, and monitoring.
+- [Dashboard Actions](https://docs.sprinto.com/data-library/vendors/dashboard-actions.md): Explore all available vendor-related actions in Sprinto—from adding vendors to scoring risk, performing due diligence, and monitoring breach incidents.
+- [Create and Add Vendors](https://docs.sprinto.com/data-library/vendors/dashboard-actions/create-and-add-vendors.md): Learn how to add vendors to Sprinto using the library, vendor discovery, or CSV import, and classify them into the correct lifecycle stage.
+- [Request and Review Vendors](https://docs.sprinto.com/data-library/vendors/dashboard-actions/request-and-review-vendors.md): Learn how employees request vendors in Sprinto and how reviewers evaluate, approve, or archive vendor intake requests.
+- [Manage Vendors and Profiles](https://docs.sprinto.com/data-library/vendors/dashboard-actions/manage-vendors-and-profiles.md): Understand how to view, edit, filter, and archive vendor profiles in Sprinto.
+- [Request Documents and Questionnaires from Vendors](https://docs.sprinto.com/data-library/vendors/dashboard-actions/request-documents-and-questionnaires-from-vendors.md): Learn how to request documents and security questionnaires from vendors in Sprinto, including uploading custom questionnaires and managing submissions.
+- [Assess Vendor Risk and Due Diligence](https://docs.sprinto.com/data-library/vendors/dashboard-actions/assess-vendor-risk-and-due-diligence.md): Learn how to assess vendor risk, map risks, review Risk Pulse insights, and complete vendor due diligence in Sprinto.
+- [Send and Review Security Questionnaires](https://docs.sprinto.com/data-library/vendors/dashboard-actions/send-and-review-security-questionnaires.md): Learn how to upload, send, and review vendor security questionnaires in Sprinto to evaluate third-party data security practices.
+- [Monitor Vendor Status and Breaches](https://docs.sprinto.com/data-library/vendors/dashboard-actions/monitor-vendor-status-and-breaches.md): Monitor vendor compliance status and breach alerts in Sprinto to stay on top of third-party risks and audit requirements.
+- [Vendor Registers](https://docs.sprinto.com/data-library/vendors/dashboard-actions/vendor-registers.md): Create vendor registers, map vendors to compliance zones, and perform periodic vendor risk assessments in Sprinto.
+- [Vendor Risk Assessment](https://docs.sprinto.com/data-library/vendors/dashboard-actions/vendor-risk-assessment.md): Learn how to perform vendor risk assessment in Sprinto to review, classify, and validate your third-party vendors’ security posture.
+- [Configure Vendor Risk Scoring, Fields, and Documents](https://docs.sprinto.com/data-library/vendors/dashboard-actions/configure-vendor-risk-scoring-fields-and-documents.md): Learn how to configure vendor risk scoring, AI-based due diligence, custom fields, and shared documents in Sprinto.
+- [Vendor Risk Pulse](https://docs.sprinto.com/data-library/vendors/dashboard-actions/vendor-risk-pulse.md): Use Risk Pulse in Sprinto to analyse vendor security posture using continuously monitored signals across compliance, security, and AI governance indicators.
+- [Vendor Due Diligence Documents & Security Questionnaires](https://docs.sprinto.com/data-library/vendors/vendor-due-diligence-documents-and-security-questionnaires.md)
+- [Frequently Asked Questions](https://docs.sprinto.com/data-library/vendors/frequently-asked-questions.md): Find answers to common questions about managing vendors, scoring risk, sending questionnaires, and monitoring breaches in Sprinto.
+- [Glossary](https://docs.sprinto.com/data-library/vendors/glossary.md): Understand key terms used in Sprinto’s Vendors section with this glossary of commonly referenced fields and concepts.
+- [Data Protection Impact Assessment (DPIA)](https://docs.sprinto.com/data-library/data-protection-impact-assessment-dpia.md): Learn how to create, manage, and complete Data Protection Impact Assessments (DPIAs) in Sprinto using workflows, forms, approvals, and risk mapping.
+- [AI Systems](https://docs.sprinto.com/data-library/ai-systems.md): Learn how Sprinto’s AI Systems module helps organisations discover, manage, and govern AI systems using risk assessments, due diligence, and Shadow AI monitoring.
+- [How AI Systems Work](https://docs.sprinto.com/data-library/ai-systems/how-ai-systems-work.md): Learn how AI Systems in Sprinto helps organisations discover, assess, govern, and monitor AI systems throughout their lifecycle.
+- [Dashboard Actions](https://docs.sprinto.com/data-library/ai-systems/dashboard-actions.md)
+- [Add and Manage AI Systems](https://docs.sprinto.com/data-library/ai-systems/dashboard-actions/add-and-manage-ai-systems.md): Learn how to add, configure, and manage internal and third-party AI systems in Sprinto’s AI Systems module.
+- [Assess AI System Risk](https://docs.sprinto.com/data-library/ai-systems/dashboard-actions/assess-ai-system-risk.md): Learn how to assess, score, and manage AI system risk in Sprinto using configurable AI risk factors and automated risk scoring workflows.
+- [Perform AI System Due Diligence](https://docs.sprinto.com/data-library/ai-systems/dashboard-actions/perform-ai-system-due-diligence.md): Learn how to perform AI system due diligence in Sprinto by requesting documents, reviewing evidence, managing questionnaires, and tracking vendor security reviews.
+- [Manage Documents and Security Questionnaires](https://docs.sprinto.com/data-library/ai-systems/dashboard-actions/manage-documents-and-security-questionnaires.md): Learn how to manage AI system documents, requests, and security questionnaires in Sprinto using uploads, document requests, and questionnaire workflows.
+- [Manage Findings and Tasks](https://docs.sprinto.com/data-library/ai-systems/dashboard-actions/manage-findings-and-tasks.md): Learn how to create findings, assign remediation tasks, upload evidence, and track governance actions for AI systems in Sprinto.
+- [Discover and Govern Shadow AI](https://docs.sprinto.com/data-library/ai-systems/dashboard-actions/discover-and-govern-shadow-ai.md): Learn how to discover, review, and govern Shadow AI usage in Sprinto using AI discovery, user visibility, risk monitoring, and violation tracking.
+- [Monitor AI System Violations](https://docs.sprinto.com/data-library/ai-systems/dashboard-actions/monitor-ai-system-violations.md): Learn how to monitor, review, and investigate AI-related policy and compliance violations in Sprinto.
+- [Configure AI Systems](https://docs.sprinto.com/data-library/ai-systems/dashboard-actions/configure-ai-systems.md): Learn how to configure AI risk scoring, field ordering, custom fields, and document request workflows in Sprinto’s AI Systems module.
+- [Frequently Asked Questions](https://docs.sprinto.com/data-library/ai-systems/frequently-asked-questions.md): Find answers to common questions about AI Systems, Shadow AI, risk scoring, due diligence, questionnaires, and governance workflows in Sprinto.
+- [Glossary](https://docs.sprinto.com/data-library/ai-systems/glossary.md): Learn the key terms and concepts used in Sprinto’s AI Systems module, including AI governance, risk scoring, Shadow AI, due diligence, and violations.
+- [Change Management](https://docs.sprinto.com/data-library/change-management.md): Track, manage, and monitor change management processes by integrating code repositories and ticketing systems within Sprinto’s Data Library.
+- [How it Works](https://docs.sprinto.com/data-library/change-management/how-it-works.md): Learn how Sprinto’s Change Management module works to track, validate, and monitor change processes through integrated systems.
+- [Dashboard Actions](https://docs.sprinto.com/data-library/change-management/dashboard-actions.md): Explore the key actions you can perform in Sprinto’s Change Management module to connect systems, create checks, and monitor compliance.
+- [Adding and Editing Change Management Systems](https://docs.sprinto.com/data-library/change-management/dashboard-actions/adding-and-editing-change-management-systems.md): Connect and manage your change management systems in Sprinto to track code and workflow changes for compliance.
+- [Monitoring and Managing Repositories](https://docs.sprinto.com/data-library/change-management/dashboard-actions/monitoring-and-managing-repositories.md): Learn how to view, classify, and manage repositories within connected change management systems in Sprinto.
+- [Workflow Checks in Change Management](https://docs.sprinto.com/data-library/change-management/dashboard-actions/workflow-checks-in-change-management.md): Learn how to add, edit, run, and monitor workflow checks in Sprinto’s Change Management module for evidence collection and compliance tracking.
+- [Create Automated Checks](https://docs.sprinto.com/data-library/change-management/dashboard-actions/create-automated-checks.md)
+- [Classify Code Repositories](https://docs.sprinto.com/data-library/change-management/dashboard-actions/classify-code-repositories.md)
+- [Frequently Asked Questions](https://docs.sprinto.com/data-library/change-management/frequently-asked-questions.md): Answers to frequently asked questions about using Change Management in Sprinto’s Data Library.
+- [Ticket-Based Change Management](https://docs.sprinto.com/data-library/change-management/ticket-based-change-management.md): Learn how to set up and configure ticket-based change management in Sprinto by integrating your ticketing systems.
+- [Glossary](https://docs.sprinto.com/data-library/change-management/glossary.md): A glossary of key terms used in Sprinto’s Change Management module to help you understand concepts and actions.
+- [Vulnerabilities](https://docs.sprinto.com/data-library/vulnerabilities.md): Learn how Sprinto helps monitor, resolve, and document vulnerabilities across your infrastructure and codebase for seamless compliance.
+- [How It Works](https://docs.sprinto.com/data-library/vulnerabilities/how-it-works.md): Understand how Sprinto detects, tracks, and helps resolve vulnerabilities across integrated scanners and manual workflows to ensure compliance.
+- [Dashboard Actions](https://docs.sprinto.com/data-library/vulnerabilities/dashboard-actions.md): Explore all available dashboard actions in Sprinto to manage vulnerabilities—from integration and uploads to evidence tracking and resolution.
+- [Create and Manage Workflow Checks](https://docs.sprinto.com/data-library/vulnerabilities/dashboard-actions/create-and-manage-workflow-checks.md): Learn how to create, configure, and manage workflow checks in the Vulnerabilities section of Sprinto for manual evidence tracking and compliance.
+- [Run and Monitor Workflow Checks](https://docs.sprinto.com/data-library/vulnerabilities/dashboard-actions/run-and-monitor-workflow-checks.md)
+- [Set Up Vulnerability Monitoring Source](https://docs.sprinto.com/data-library/vulnerabilities/dashboard-actions/set-up-vulnerability-monitoring-source.md): Learn how to connect your infrastructure or codebase scanners to Sprinto to automatically detect and track vulnerabilities.
+- [Upload Pentest Report and Add Vulnerabilities](https://docs.sprinto.com/data-library/vulnerabilities/dashboard-actions/upload-pentest-report-and-add-vulnerabilities.md): Learn how to upload penetration test reports and log associated vulnerabilities on Sprinto for compliance tracking.
+- [Resolve Vulnerabilities](https://docs.sprinto.com/data-library/vulnerabilities/dashboard-actions/resolve-vulnerabilities.md): Learn how to resolve scanner-based and pentest-reported vulnerabilities in Sprinto to maintain compliance and prevent check failures.
+- [Mark Vulnerabilities as Special Cases](https://docs.sprinto.com/data-library/vulnerabilities/dashboard-actions/mark-vulnerabilities-as-special-cases.md): Learn how to dismiss non-applicable vulnerabilities in Sprinto by marking them as special cases, with justification and expiry options.
+- [Frequently Asked Questions](https://docs.sprinto.com/data-library/vulnerabilities/frequently-asked-questions.md): Get answers to common questions about managing vulnerabilities, workflow checks, and pentest reports in Sprinto.
+- [Glossary](https://docs.sprinto.com/data-library/vulnerabilities/glossary.md): Understand key terms used in the Vulnerabilities module of Sprinto, including definitions for workflow checks, SLA, and more.
+- [Infrastructure](https://docs.sprinto.com/data-library/infrastructure.md): Monitor and secure your cloud infrastructure by integrating, classifying, and assessing systems within Sprinto's Infrastructure section.
+- [How It Works](https://docs.sprinto.com/data-library/infrastructure/how-it-works.md): Understand how Sprinto monitors and manages cloud infrastructure systems for compliance, from integration to check resolution.
+- [Dashboard Actions](https://docs.sprinto.com/data-library/infrastructure/dashboard-actions.md): Explore all available actions to configure, classify, monitor, and maintain your infrastructure systems in Sprinto.
+- [Set Up Infrastructure Services](https://docs.sprinto.com/data-library/infrastructure/dashboard-actions/set-up-infrastructure-services.md): Learn how to add and configure your cloud infrastructure systems in Sprinto for compliance monitoring.
+- [Assign Infra Owners](https://docs.sprinto.com/data-library/infrastructure/dashboard-actions/assign-infra-owners.md): Designate responsible stakeholders for each infrastructure system to ensure timely resolution of compliance tasks in Sprinto.
+- [Classify Infrastructure Entities](https://docs.sprinto.com/data-library/infrastructure/dashboard-actions/classify-infrastructure-entities.md): Classify your infrastructure entities as Production or Not Production to enable appropriate compliance checks in Sprinto.
+- [Manage Non-Integrating Infrastructure Providers](https://docs.sprinto.com/data-library/infrastructure/dashboard-actions/manage-non-integrating-infrastructure-providers.md): Track compliance for infrastructure services not integrated with Sprinto using workflow checks and evidence-based verification.
+- [Add and Configure Workflow Checks](https://docs.sprinto.com/data-library/infrastructure/dashboard-actions/add-and-configure-workflow-checks.md): Add system-specific workflow checks in Sprinto to validate infrastructure security controls through periodic evidence.
+- [Advanced Infrastructure Checks in Sprinto](https://docs.sprinto.com/data-library/infrastructure/dashboard-actions/advanced-infrastructure-checks-in-sprinto.md): Sprinto now offers deeper compliance coverage with new system checks for cloud infrastructure services like GCP.
+- [Resolve Sprinto Check for Enabling Backup on Databases](https://docs.sprinto.com/data-library/infrastructure/dashboard-actions/resolve-sprinto-check-for-enabling-backup-on-databases.md)
+- [Monitoring](https://docs.sprinto.com/data-library/infrastructure/dashboard-actions/monitoring.md): Track, manage, and resolve infrastructure compliance checks from a unified Monitoring dashboard in Sprinto.
+- [How to Prepare for Disaster Recovery?](https://docs.sprinto.com/data-library/infrastructure/how-to-prepare-for-disaster-recovery.md)
+- [Frequently Asked Questions](https://docs.sprinto.com/data-library/infrastructure/frequently-asked-questions.md): Find answers to frequently asked questions about managing infrastructure compliance in Sprinto.
+- [Glossary](https://docs.sprinto.com/data-library/infrastructure/glossary.md): Understand key terms used in Sprinto’s Infrastructure section to manage and monitor cloud compliance effectively.
+- [Incidents](https://docs.sprinto.com/data-library/incidents.md): Centralise and track incidents from integrated systems to streamline resolution and maintain compliance with Sprinto’s incident management dashboard.
+- [How it Works](https://docs.sprinto.com/data-library/incidents/how-it-works.md): Learn how Sprinto integrates, tracks, and monitors incidents from detection to resolution across multiple sources.
+- [Dashboard Actions](https://docs.sprinto.com/data-library/incidents/dashboard-actions.md): Perform key actions in the Incidents section such as adding sources, reporting incidents, resolving tickets, and monitoring checks for compliance.
+- [Add and Manage Incident Sources](https://docs.sprinto.com/data-library/incidents/dashboard-actions/add-and-manage-incident-sources.md): Learn how to add, configure, and manage incident sources like PagerDuty and Microsoft Defender in Sprinto to track reported incidents.
+- [Monitor Incident Checks](https://docs.sprinto.com/data-library/incidents/dashboard-actions/monitor-incident-checks.md): Track incident resolution and data loss reporting using Sprinto’s automated monitoring checks for complete compliance visibility.
+- [Manage Incident Management On Sprinto](https://docs.sprinto.com/data-library/incidents/dashboard-actions/manage-incident-management-on-sprinto.md)
+- [Report an Incident by Email (PagerDuty)](https://docs.sprinto.com/data-library/incidents/dashboard-actions/report-an-incident-by-email-pagerduty.md)
+- [Report an Incident Ticket (Sprinto)](https://docs.sprinto.com/data-library/incidents/dashboard-actions/report-an-incident-ticket-sprinto.md)
+- [Resolving Incident Tickets (PagerDuty)](https://docs.sprinto.com/data-library/incidents/dashboard-actions/resolving-incident-tickets-pagerduty.md)
+- [Resolving Incident Ticket (Sprinto)](https://docs.sprinto.com/data-library/incidents/dashboard-actions/resolving-incident-ticket-sprinto.md)
+- [Set up Incident Monitoring System on Sprinto](https://docs.sprinto.com/data-library/incidents/dashboard-actions/set-up-incident-monitoring-system-on-sprinto.md)
+- [Frequently Asked Questions](https://docs.sprinto.com/data-library/incidents/frequently-asked-questions.md): Find answers to common questions about reporting, managing, and monitoring incidents in Sprinto.
+- [Glossary](https://docs.sprinto.com/data-library/incidents/glossary.md): Understand key terms related to incident reporting, resolution, and monitoring in Sprinto.
+- [Asset Register](https://docs.sprinto.com/data-library/asset-register.md): Centralise, track, and classify your infrastructure, devices, code, and people with Sprinto’s unified Asset Register for streamlined compliance and risk assessments.
+- [How it Works](https://docs.sprinto.com/data-library/asset-register/how-it-works.md): Understand how Sprinto’s Asset Register works—from auto-discovery to manual uploads—to streamline asset tracking and compliance.
+- [Create and Manage Assets in the Asset Register](https://docs.sprinto.com/data-library/asset-register/create-and-manage-assets-in-the-asset-register.md): Learn how to add, edit, group, and bulk upload assets in Sprinto’s Asset Register using auto-discovery and custom asset tools.
+- [Link Assets to Risks](https://docs.sprinto.com/data-library/asset-register/link-assets-to-risks.md): Link custom assets to relevant risks in Sprinto to strengthen asset-based risk analysis, impact visibility, and audit readiness.
+- [Frequently Asked Questions](https://docs.sprinto.com/data-library/asset-register/frequently-asked-questions.md): Find answers to common questions about managing auto-discovered and custom assets in Sprinto’s Asset Register, including classification, uploads, and ownership.
+- [Glossary](https://docs.sprinto.com/data-library/asset-register/glossary.md): Explore key terms and definitions used in Sprinto’s Asset Register to manage assets, classifications, and compliance responsibilities.
+- [Reviews](https://docs.sprinto.com/data-library/reviews.md): Stay compliant with frameworks like SOC2 and ISO27001 using Sprinto’s structured, role-based Reviews management system.
+- [How it Works](https://docs.sprinto.com/data-library/reviews/how-it-works.md): Learn how Sprinto automates periodic compliance reviews and helps teams complete them with guided workflows and audit tracking.
+- [Dashboard Actions](https://docs.sprinto.com/data-library/reviews/dashboard-actions.md): Discover all dashboard actions you can perform in Sprinto's Reviews section—from assigning roles to completing evidence-backed compliance checks.
+- [Create and Manage Workflow Checks](https://docs.sprinto.com/data-library/reviews/dashboard-actions/create-and-manage-workflow-checks.md): Create and manage custom workflow checks in Sprinto to track manual or process-driven compliance reviews.
+- [Perform and Submit Senior Management Reviews](https://docs.sprinto.com/data-library/reviews/dashboard-actions/perform-and-submit-senior-management-reviews.md): Learn how senior management completes scheduled compliance reviews in Sprinto to validate internal security actions.
+- [Review Supporting Evidence](https://docs.sprinto.com/data-library/reviews/dashboard-actions/review-supporting-evidence.md): Upload and manage evidence in Sprinto reviews to support audit readiness and compliance traceability.
+- [Filter, Track, and View Review History](https://docs.sprinto.com/data-library/reviews/dashboard-actions/filter-track-and-view-review-history.md): Filter, track, and audit your review history in Sprinto to stay on top of compliance deadlines and documentation.
+- [Frequently Asked Questions](https://docs.sprinto.com/data-library/reviews/frequently-asked-questions.md): Find answers to common questions about managing reviews, roles, and compliance workflows in Sprinto.
+- [Glossary](https://docs.sprinto.com/data-library/reviews/glossary.md): Understand key terms used in Sprinto's Reviews module to manage compliance workflows effectively.
+- [Workflow Checks](https://docs.sprinto.com/data-library/workflow-checks.md): Workflow Checks in Sprinto are time-driven compliance tasks that help you collect evidence, delegate ownership, and maintain audit readiness.
+- [How Workflow Checks Work](https://docs.sprinto.com/data-library/workflow-checks/how-workflow-checks-work.md): Understand how Workflow Checks are configured, activated, and resolved in Sprinto to maintain compliance and audit readiness.
+- [Dashboard Actions](https://docs.sprinto.com/data-library/workflow-checks/dashboard-actions.md): Explore the key dashboard actions available for creating and managing Workflow Checks in Sprinto.
+- [Create Workflow Checks](https://docs.sprinto.com/data-library/workflow-checks/dashboard-actions/create-workflow-checks.md)
+- [Create Automated Checks](https://docs.sprinto.com/data-library/workflow-checks/dashboard-actions/create-automated-checks.md): Learn how to create, assign, and resolve time-driven compliance tasks in Sprinto by using Workflow Checks to track activities, collect evidence, and maintain audit readiness.
+- [Manage Workflow Checks](https://docs.sprinto.com/data-library/workflow-checks/dashboard-actions/manage-workflow-checks.md): Learn how to view, edit, disable, and delete Workflow Checks in Sprinto.
+- [Mark a Sprinto check as Special Case](https://docs.sprinto.com/data-library/workflow-checks/dashboard-actions/mark-a-sprinto-check-as-special-case.md): Learn how to mark Sprinto checks as special cases when they are not applicable to your organisation’s operations.
+- [Frequently Asked Questions](https://docs.sprinto.com/data-library/workflow-checks/frequently-asked-questions.md): Find answers to common questions about creating, running, and managing Workflow Checks in Sprinto.
+- [Glossary](https://docs.sprinto.com/data-library/workflow-checks/glossary.md): Key terms and definitions related to Workflow Checks in Sprinto.
+- [Reports](https://docs.sprinto.com/data-library/reports.md): Access detailed compliance, vendor, risk, and audit insights in Sprinto’s Reports section. Apply filters, track progress, and download PDF reports to support informed decision-making.
+- [Overview](https://docs.sprinto.com/monitoring/overview.md): Gain a centralised view of your organisation’s compliance posture through Sprinto’s Monitoring dashboard, with filters, task statuses, and real-time check visibility.
+- [Switch to the new Monitoring Details experience](https://docs.sprinto.com/monitoring/switch-to-the-new-monitoring-details-experience.md): Learn how to switch to Sprinto’s new Monitoring Details experience to view monitored entities, identify issues, and resolve failing checks faster.
+- [How Monitoring Works](https://docs.sprinto.com/monitoring/how-monitoring-works.md): Learn how Sprinto’s Monitoring dashboard works behind the scenes to help you track, evaluate, and fix compliance checks in real time.
+- [Dashboard Actions](https://docs.sprinto.com/monitoring/dashboard-actions.md)
+- [Create and Manage Checks](https://docs.sprinto.com/monitoring/dashboard-actions/create-and-manage-checks.md): Learn how to create workflow-based compliance checks, add templates, and manage automated monitors in Sprinto's Monitoring dashboard.
+- [Create a Single Workflow Check](https://docs.sprinto.com/monitoring/dashboard-actions/create-a-single-workflow-check.md): Learn how to create and configure single workflow checks in Sprinto, including scheduling, evidence windows, reviewers, task lifecycle settings, and recurring compliance tracking.
+- [Create Automated Checks](https://docs.sprinto.com/monitoring/dashboard-actions/create-automated-checks.md): Learn how to define and run custom automated compliance checks on integrated or native entities using Sprinto’s rule builder and evaluation engine.
+- [Sync Tasks in Jira Dashboard](https://docs.sprinto.com/monitoring/dashboard-actions/sync-tasks-in-jira-dashboard.md): Learn how to sync Sprinto workflow check tasks with your Jira dashboard to create, manage, and track compliance activities directly from Jira.
+- [AI Powered Evidence Gap Analysis](https://docs.sprinto.com/monitoring/dashboard-actions/ai-powered-evidence-gap-analysis.md): Use Sprinto AI to automatically validate your uploaded evidence for relevance, scope, and timeliness before audit submission.
+- [View and Investigate Checks](https://docs.sprinto.com/monitoring/dashboard-actions/view-and-investigate-checks.md): Learn how to explore, troubleshoot, and fix compliance check issues using Sprinto’s Monitoring dashboard.
+- [Working with the Monitoring Table](https://docs.sprinto.com/monitoring/dashboard-actions/working-with-the-monitoring-table.md): Learn how to navigate, filter, and interact with Sprinto’s Monitoring table to track check status, troubleshoot tasks, and drive compliance actions.
+- [Frequently Asked Questions](https://docs.sprinto.com/monitoring/frequently-asked-questions.md): Find quick answers to common questions about creating, filtering, and managing compliance checks in Sprinto's Monitoring dashboard.
+- [Glossary](https://docs.sprinto.com/monitoring/glossary.md): Understand key terms used in Sprinto’s Monitoring dashboard, including checks, task statuses, providers, and compliance mappings.
+- [Overview](https://docs.sprinto.com/ingestion/overview.md): Learn how the Ingestion module in Sprinto helps you collect, process, transform, and store external data using configurable workflows and integrations.
+- [How Ingestion Works](https://docs.sprinto.com/ingestion/how-ingestion-works.md): Learn how Ingestion works in Sprinto, including how entities, plans, and webhooks work together to receive, validate, process, and track incoming data from external systems.
+- [Get Started with Ingestion in Sprinto](https://docs.sprinto.com/ingestion/get-started-with-ingestion-in-sprinto.md): Learn how to get started with Ingestion in Sprinto using AI-assisted workflows to connect external systems, process incoming data, and review ingested records.
+- [Build and Edit Workflows Using AI Editor](https://docs.sprinto.com/ingestion/get-started-with-ingestion-in-sprinto/build-and-edit-workflows-using-ai-editor.md): Learn how to build, modify, and manage ingestion workflows in Sprinto using the AI Editor, including workflow generation, entity creation, parameters, providers, credentials, and checks.
+- [Run and Debug Ingestion Workflows](https://docs.sprinto.com/ingestion/get-started-with-ingestion-in-sprinto/run-and-debug-ingestion-workflows.md): Learn how to run, debug, troubleshoot, and monitor ingestion workflows in Sprinto using execution controls, troubleshooting tools, run history, and revision history.
+- [Review Ingested Data and Entity Records](https://docs.sprinto.com/ingestion/get-started-with-ingestion-in-sprinto/review-ingested-data-and-entity-records.md): Learn how to review ingested data and manage entity records in Sprinto, including entity types, custom fields, monitoring visibility, and entity relationships.
+- [Create and Manage Webhooks](https://docs.sprinto.com/ingestion/get-started-with-ingestion-in-sprinto/create-and-manage-webhooks.md): Learn how to create, configure, and manage ingestion webhooks in Sprinto, including attaching plans, reviewing events, configuring authentication, and troubleshooting incoming requests.
+- [Edit Workflows Using YAML Editor](https://docs.sprinto.com/ingestion/get-started-with-ingestion-in-sprinto/edit-workflows-using-yaml-editor.md): Learn how to edit ingestion workflows in Sprinto using YAML Editor, including importing YAML, exporting workflow configuration, validation, and advanced workflow editing.
+- [Configure Azure DevOps Integration](https://docs.sprinto.com/ingestion/configure-azure-devops-integration.md): Configure the Azure DevOps Incidents ingestion plan in Sprinto to sync incidents, map projects, and monitor work items automatically.
+- [Dashboard Actions](https://docs.sprinto.com/ingestion/dashboard-actions.md)
+- [Create and Configure an Ingestion Plan](https://docs.sprinto.com/ingestion/dashboard-actions/create-and-configure-an-ingestion-plan.md): Learn how to create and configure ingestion plans in Sprinto using templates or from-scratch workflows, including parameters, credentials, providers, steps, outputs, and plan settings.
+- [Manage Plan Execution and Version History](https://docs.sprinto.com/ingestion/dashboard-actions/manage-plan-execution-and-version-history.md): Learn how to run, debug, review, and restore ingestion plans in Sprinto using execution controls, run history, debug options, and revision history.
+- [Build and Edit Plans Using YAML and AI Editor](https://docs.sprinto.com/ingestion/dashboard-actions/build-and-edit-plans-using-yaml-and-ai-editor.md): Learn how to build and edit ingestion plans in Sprinto using the YAML editor and AI Editor, including importing YAML, editing workflows, managing entities, and saving plan changes.
+- [Create and Manage Entity Types](https://docs.sprinto.com/ingestion/dashboard-actions/create-and-manage-entity-types.md): Learn how to create, configure, edit, and manage ingestion entity types in Sprinto, including custom fields, reference fields, entity records, and monitoring visibility.
+- [Create and Manage Webhooks](https://docs.sprinto.com/ingestion/dashboard-actions/create-and-manage-webhooks.md): Learn how to create, configure, manage, and monitor ingestion webhooks in Sprinto, including authentication, attached plans, recent events, webhook testing, and lifecycle actions.
+- [Frequently Asked Questions](https://docs.sprinto.com/ingestion/frequently-asked-questions.md): Find answers to common questions about Sprinto Ingestion, including plans, entities, webhooks, YAML editing, debugging, execution, and workflow behaviour.
+- [Glossary](https://docs.sprinto.com/ingestion/glossary.md): Learn the meaning of key terms used in Sprinto Ingestion, including plans, entities, webhooks, workflows, YAML, execution, and ingestion-specific concepts.
+- [Trust Center](https://docs.sprinto.com/trust/trust-center.md)
+- [Trust Center - Documentation & Security Controls](https://docs.sprinto.com/trust/trust-center/trust-center-documentation-and-security-controls.md)
+- [How It Works](https://docs.sprinto.com/trust/trust-center/how-it-works.md): Understand how the Sprinto Trust Center functions, including setup, configuration, access handling, and secure sharing of compliance artefacts.
+- [Dashboard Actions](https://docs.sprinto.com/trust/trust-center/dashboard-actions.md): Explore all actionable items available in the Trust Center dashboard, including how to configure NDA, access controls, team members, and more.
+- [Customise and Set Up Your Trust Center](https://docs.sprinto.com/trust/trust-center/dashboard-actions/customise-and-set-up-your-trust-center.md): Learn how to customise your Trust Center's branding, populate key sections, and publish it on a Sprinto or custom domain.
+- [Configure NDA and Access Controls](https://docs.sprinto.com/trust/trust-center/dashboard-actions/configure-nda-and-access-controls.md): Learn how to set up NDA workflows, manage document access visibility, and define access expiration in Sprinto's Trust Center.
+- [Configure NDA with HelloSign](https://docs.sprinto.com/trust/trust-center/dashboard-actions/configure-nda-and-access-controls/configure-nda-with-hellosign.md): Integrate HelloSign (Dropbox Sign) with Sprinto to automate NDA signing workflows, manage restricted Trust Center access, and track electronic signature requests securely.
+- [Manage Trust Center Profiles and Privacy Settings](https://docs.sprinto.com/trust/trust-center/dashboard-actions/manage-trust-center-profiles-and-privacy-settings.md): Learn how to create and manage Trust Center Profiles and enable private access for sensitive or segmented content.
+- [Handle Access Requests and Data Rights Submissions](https://docs.sprinto.com/trust/trust-center/dashboard-actions/handle-access-requests-and-data-rights-submissions.md): Learn how to manage document access requests and handle data rights submissions through your Sprinto Trust Center.
+- [Invite and Manage Trust Center Team Members](https://docs.sprinto.com/trust/trust-center/dashboard-actions/invite-and-manage-trust-center-team-members.md): Learn how to add, invite, and manage team members who collaborate on your Sprinto Trust Center.
+- [Trust Center Requests in Slack](https://docs.sprinto.com/trust/trust-center/dashboard-actions/trust-center-requests-in-slack.md): Manage Trust Center access requests directly in Slack without switching to the Sprinto app.
+- [What's New](https://docs.sprinto.com/trust/trust-center/whats-new.md): Discover the latest UI enhancements and new features added to Sprinto’s Trust Center to improve user experience and document access.
+- [Frequently Asked Questions](https://docs.sprinto.com/trust/trust-center/frequently-asked-questions.md): Get answers to frequently asked questions about setting up, configuring, and managing your Trust Center in Sprinto.
+- [Glossary](https://docs.sprinto.com/trust/trust-center/glossary.md): A glossary of common terms used across the Sprinto Trust Center to help you better understand key security, compliance, and access control concepts.
+- [Questionnaires](https://docs.sprinto.com/trust/questionnaires.md): Manage, import, and respond to security questionnaires efficiently using Sprinto’s AI-powered Questionnaires module.
+- [How it Works](https://docs.sprinto.com/trust/questionnaires/how-it-works.md): Understand how Sprinto’s Questionnaires section helps you manage and respond to security questionnaires efficiently.
+- [Dashboard Actions](https://docs.sprinto.com/trust/questionnaires/dashboard-actions.md): Learn how to import, manage, edit, and complete security questionnaires in Sprinto’s Trust module.
+- [Pending Questions – Dashboard Actions](https://docs.sprinto.com/trust/questionnaires/dashboard-actions/pending-questions-dashboard-actions.md): Learn how to view, manage, and respond to pending questionnaire questions in Sprinto.
+- [Users – Dashboard Actions](https://docs.sprinto.com/trust/questionnaires/dashboard-actions/users-dashboard-actions.md): Learn how to add, edit, and remove users in the Questionnaires section of Sprinto’s Trust module.
+- [Security Questionnaire AI Chrome Extension](https://docs.sprinto.com/trust/questionnaires/dashboard-actions/security-questionnaire-ai-chrome-extension.md): Use Sprinto’s AI Chrome Extension to generate and insert answers directly into portal-based security questionnaires using Sprinto AI.
+- [Frequently Asked Questions](https://docs.sprinto.com/trust/questionnaires/frequently-asked-questions.md): Find answers to common questions about using the Questionnaires section in Sprinto’s Trust module.
+- [Glossary](https://docs.sprinto.com/trust/questionnaires/glossary.md): Definitions of common terms used in the Questionnaires section of Sprinto’s Trust module.
+- [Knowledge Hub](https://docs.sprinto.com/trust/knowledge-hub.md): Explore Sprinto’s Knowledge Hub for tactical insights, technical clarifications, and resolved edge-case scenarios across monitoring, integrations, training, and platform features.
+- [Dashboard Actions](https://docs.sprinto.com/trust/knowledge-hub/dashboard-actions.md): Explore Sprinto’s Knowledge Hub for tactical insights, technical clarifications, and resolved edge-case scenarios across monitoring, integrations, training, and platform features.
+- [Frequently Asked Questions](https://docs.sprinto.com/trust/knowledge-hub/frequently-asked-questions.md): Find quick answers to common questions about using the Knowledge Hub in Sprinto for document management, Q\&A creation, and technical clarifications.
+- [Glossary](https://docs.sprinto.com/trust/knowledge-hub/glossary.md): A glossary of terms used in Sprinto’s Knowledge Hub to help you understand key concepts related to document management, Q\&A creation, and audit readiness.
+- [Responsible Disclosure](https://docs.sprinto.com/trust/responsible-disclosure.md)
+- [Fix Failing Monitors with Sprinto Assist](https://docs.sprinto.com/sprinto-assist/fix-failing-monitors-with-sprinto-assist.md): Use Sprinto Assist to identify and fix failing monitors directly within AWS and other external systems using AI-assisted remediation workflows.
+- [Connect Integrations with Sprinto Assist](https://docs.sprinto.com/sprinto-assist/fix-failing-monitors-with-sprinto-assist/connect-integrations-with-sprinto-assist.md): Use Sprinto Assist's Integration Agent to connect supported integrations by letting AI guide and automate the setup workflow from your browser.
+- [Get Security Questions Answered with Sprinto Assist](https://docs.sprinto.com/sprinto-assist/get-security-questions-answered-with-sprinto-assist.md): Use Sprinto Assist to answer security questionnaires on any portal using AI, automatically attach evidence, and save a tracked copy in Sprinto.
+- [Overview](https://docs.sprinto.com/sprinto-ai/overview.md): Sprinto AI empowers compliance teams with AI Playground and Ask AI to build, deploy, and use intelligent workflows directly within Sprinto.
+- [How Sprinto AI Works](https://docs.sprinto.com/sprinto-ai/how-sprinto-ai-works.md): Learn how Sprinto AI works to create, deploy, and use AI actions and Ask AI for intelligent, context-aware compliance workflows.
+- [AI Playground](https://docs.sprinto.com/sprinto-ai/ai-playground.md): The Sprinto AI Playground guides you through creating, managing, and using AI actions in Playground and Ask AI.
+- [Create and manage AI Actions](https://docs.sprinto.com/sprinto-ai/ai-playground/create-and-manage-ai-actions.md): Learn how to create and configure AI actions in Sprinto Playground to automate compliance tasks.
+- [Invoke AI Actions & Ask AI](https://docs.sprinto.com/sprinto-ai/ai-playground/invoke-ai-actions-and-ask-ai.md): Ask AI lets you ask questions and run AI actions directly within entity records in Sprinto.
+- [Sprinto-defined AI Actions](https://docs.sprinto.com/sprinto-ai/ai-playground/sprinto-defined-ai-actions.md): Explore the complete catalog of Sprinto-defined AI Actions available within AI Playground.
+- [Supported entity types & attributes](https://docs.sprinto.com/sprinto-ai/ai-playground/supported-entity-types-and-attributes.md): Overview of Supported Entity Types for AI Playground and Ask AI
+- [Frequently Asked Questions](https://docs.sprinto.com/sprinto-ai/frequently-asked-questions.md): Find answers to common questions about using AI Playground and Ask AI in Sprinto.
+- [Glossary](https://docs.sprinto.com/sprinto-ai/glossary.md): Learn the key terms used in Sprinto AI, including AI Playground, Ask AI, agents, entities, and more.
+- [Sprinto MCP](https://docs.sprinto.com/sprinto-ai/sprinto-mcp.md): Guide to integrate with Sprinto MCP alongside its capabilities.
+- [Members](https://docs.sprinto.com/settings/members.md): Manage and control user access in Sprinto by adding, editing, or removing members and assigning appropriate roles.
+- [Notifications](https://docs.sprinto.com/settings/notifications.md): Configure Sprinto notifications, channels, and recipients to ensure timely alerts for tasks, billing, and compliance activities.
+- [Microsoft Teams Configuration](https://docs.sprinto.com/settings/notifications/microsoft-teams-configuration.md): Learn how to integrate Microsoft Teams with Sprinto to receive staff and admin task notifications directly in Teams.
+- [Custom Fields](https://docs.sprinto.com/settings/custom-fields.md): Manage and create custom fields in Sprinto to capture and organise additional entity-specific data, enabling more efficient compliance and risk management.
+- [Zones](https://docs.sprinto.com/settings/zones.md): Learn how to create, manage, and map workflow checks to Zones in Sprinto for streamlined control and framework management.
+- [Zones for Azure Devops](https://docs.sprinto.com/settings/zones/zones-for-azure-devops.md)
+- [User Management](https://docs.sprinto.com/settings/user-management.md): Learn how to add users, assign access roles, update permissions, and manage user access in Sprinto.
+- [Developer API](https://docs.sprinto.com/settings/developer-api.md): Learn how to use Sprinto’s Developer API to automate compliance tasks by securely transmitting security data from source applications in real time.
+- [Scoring Methods](https://docs.sprinto.com/settings/scoring-methods.md): Define reusable scoring logic to evaluate controls consistently across Sprinto.
+- [Sprinto AI](https://docs.sprinto.com/settings/sprinto-ai.md): Sprinto AI leverages advanced generative AI to streamline compliance, risk, and security workflows while maintaining high standards of safety, privacy, and transparency.
+- [Activity Log](https://docs.sprinto.com/settings/activity-log.md): View, filter, and track all user and integration activities in Sprinto’s Activity log to monitor changes and maintain compliance.
+- [Company](https://docs.sprinto.com/settings/company.md): Manage your organisation’s core details and products in Sprinto, including company profile, time zone, logo, and product URLs for audit scope.
+- [Partner Integrations](https://docs.sprinto.com/settings/partner-integrations.md)
+- [SSO Login](https://docs.sprinto.com/settings/sso-login.md): Configure Single Sign-On (SSO) in Sprinto to enable secure, centralised authentication for your organisation’s domains.
+- [Tasks](https://docs.sprinto.com/settings/tasks.md): Automate ticket creation in your preferred task management system to streamline compliance-related workflows in Sprinto.
+- [Approval Paths](https://docs.sprinto.com/settings/approval-paths.md): Configure and manage multi-step approval workflows for policies in Sprinto using Approval Paths with custom steps, approvers, and approval logic.
+- [Automations](https://docs.sprinto.com/settings/automations.md): Learn how to create and manage automation rules in Sprinto to automatically trigger tasks, notifications, and workflows based on defined conditions and events.
+- [Special Cases](https://docs.sprinto.com/settings/special-cases.md): Manage and filter special compliance exceptions in Sprinto for specific monitors and entities.
+- [Billing](https://docs.sprinto.com/settings/billing.md): Manage Sprinto subscriptions, compare plans, and set up billing notifications to stay informed about payments and renewals.
+- [Sprinto Plans and Pricing](https://docs.sprinto.com/settings/billing/sprinto-plans-and-pricing.md): Learn about Sprinto's Foundation and Growth plans, enterprise GRC solutions, and choose the pricing option that best fits your compliance and governance needs.
+- [Sprinto Referral Program](https://docs.sprinto.com/settings/billing/sprinto-referral-program.md)
+- [Custom Integrations](https://docs.sprinto.com/settings/custom-integrations.md): Easily connect your systems with custom integrations to keep entity data  automatically in sync
+- [Steps to enable Status Checks under Azure Devops](https://docs.sprinto.com/settings/steps-to-enable-status-checks-under-azure-devops.md)
+- [Audit Partner Integration](https://docs.sprinto.com/settings/audit-partner-integration.md): Reference for auditors integrating with Sprinto's Audit Partner API — core concepts, authentication, endpoints, and sync guidance.
+- [Sprinto Developer API](https://docs.sprinto.com/api-reference/sprinto-developer-api.md): Use the Sprinto Developer API to programmatically access, manage, and extend Sprinto data through secure GraphQL-based integrations.
+- [Getting Started](https://docs.sprinto.com/api-reference/getting-started.md)
+- [Quick Start](https://docs.sprinto.com/api-reference/getting-started/quick-start.md): Quickly get started with the Sprinto Developer API by generating an API key, exploring the GraphQL schema, and making your first authenticated API request.
+- [API Structure](https://docs.sprinto.com/api-reference/getting-started/api-structure.md): Learn how the Sprinto Developer API is structured using GraphQL, including queries, mutations, arguments, and pagination.
+- [Pagination](https://docs.sprinto.com/api-reference/getting-started/pagination.md): Learn how to use cursor-based pagination in the Sprinto Developer API to efficiently fetch and navigate large datasets.
+- [Sprinto API Playground](https://docs.sprinto.com/api-reference/sprinto-api-playground.md)
+- [Set up API Playground](https://docs.sprinto.com/api-reference/sprinto-api-playground/set-up-api-playground.md): Learn how to set up the Sprinto API Playground to explore and test the Sprinto Developer API directly from your browser.
+- [Make your first API call using the Sprinto API Playground](https://docs.sprinto.com/api-reference/sprinto-api-playground/make-your-first-api-call-using-the-sprinto-api-playground.md): Learn how to make your first query or mutation using the Sprinto API Playground and validate responses in real time.
+- [Sprinto Cookbooks](https://docs.sprinto.com/api-reference/sprinto-cookbooks.md): Get started with Sprinto Cookbooks to use ready-to-run API queries and mutations for common Sprinto Developer API use cases.
+- [Mark staff member account In-scope](https://docs.sprinto.com/api-reference/sprinto-cookbooks/mark-staff-member-account-in-scope.md): Use the Sprinto Developer API to mark a staff member as in-scope and include them in audit compliance checks.
+- [Mark staff member account Not-In-Scope](https://docs.sprinto.com/api-reference/sprinto-cookbooks/mark-staff-member-account-not-in-scope.md): Use the Sprinto Developer API to mark a staff member as not-in-scope and exclude them from audit and compliance checks.
+- [Add background verification report for staff member](https://docs.sprinto.com/api-reference/sprinto-cookbooks/add-background-verification-report-for-staff-member.md): Use the Sprinto Developer API to upload a background verification (BGV) report for an in-scope staff member.
+- [Add evidence for workflow check](https://docs.sprinto.com/api-reference/sprinto-cookbooks/add-evidence-for-workflow-check.md): Use the Sprinto Developer API to upload evidence files for a workflow check and update its evidence status.
+- [Upload Evidence API](https://docs.sprinto.com/api-reference/upload-evidence-api.md): Upload evidence files programmatically to Sprinto monitors using the Upload Evidence API with multipart requests.
+- [Framework Health & Vendor Data APIs](https://docs.sprinto.com/api-reference/framework-health-and-vendor-data-apis.md): Learn how to retrieve framework health metrics and vendor information using Sprinto's Developer APIs.
+- [Custom Integration Push APIs](https://docs.sprinto.com/api-reference/custom-integration-push-apis.md)
+- [Integration Monitoring](https://docs.sprinto.com/api-reference/custom-integration-push-apis/integration-monitoring.md)
+- [Session Management](https://docs.sprinto.com/api-reference/custom-integration-push-apis/session-management.md)
+- [Pushing Entities Data](https://docs.sprinto.com/api-reference/custom-integration-push-apis/pushing-entities-data.md)
+- [Models](https://docs.sprinto.com/api-reference/models.md)
+
+
+---
+
+# Agent Instructions
+This documentation is published with GitBook. GitBook is the documentation platform designed so that both humans and AI agents can read, navigate, and reason over technical content effectively. Learn more at gitbook.com.
+
+## Querying This Documentation
+If you need additional information, you can query the documentation dynamically by asking a question.
+Perform an HTTP GET request on a page URL with the `ask` query parameter:
+```
+GET https://docs.sprinto.com/readme.md?ask=<question>
+```
+The question should be specific, self-contained, and written in natural language.
+The response will contain a direct answer to the question and relevant excerpts and sources from the documentation.
+Use this mechanism when the answer is not explicitly present in the current page, you need clarification or additional context, or you want to retrieve related documentation sections.
